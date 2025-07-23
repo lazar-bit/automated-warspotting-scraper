@@ -2,8 +2,8 @@ name: Scheduled Warspotting Scraper
 
 on:
   schedule:
-    - cron: '0 2 * * 0'  # Sunday full scan (02:00)
-    - cron: '0 2 * * 1-6'  # Mon–Sat daily 30-day scan (02:00)
+    - cron: '0 1 * * 0'  # Sunday full scan (01:00)
+    - cron: '0 1 * * 1-6'  # Mon–Sat daily 30-day scan (01:00)
   workflow_dispatch:  # Optional manual trigger
 
 jobs:
