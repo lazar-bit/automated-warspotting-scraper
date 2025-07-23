@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests
       - name: Run scraper
-        run: python automated_warspotting_scraper.py
+        run: python automated-warspotting-scraper.py
       - name: Commit updated CSV
         run: |
           git config --global user.name "github-actions[bot]"
