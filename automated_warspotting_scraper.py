@@ -85,7 +85,7 @@ def main():
 
     while current <= END_DATE:
         ds = current.isoformat()
-        print(f"\ud83d\uddd3\ufe0f Fetching records for {ds} …")
+        print(f"📅 Fetching records for {ds} …")
         day_records = fetch_day_all_pages(ds, BELLIGERENT)
         flattened = [flatten(r) for r in day_records]
         all_data.extend(flattened)
