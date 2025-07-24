@@ -5,7 +5,7 @@ This Python-based automation tool periodically fetches and updates geolocated Ru
 The scraper supports:
 
 * ✅ **Full historical scans** (every Sunday)
-* ✅ **Incremental 30-day scans** (on Monday, Thursday, and Friday)
+* ✅ **Incremental 30-day scans** (on Monday, Wednesday, and Friday)
 * ✅ **Scheduled automation** via GitHub Actions
 * ✅ **Output** in a single `CSV` file (`warspotting_losses.csv`), suitable for visualization and further analysis
 
@@ -30,22 +30,9 @@ automated-warspotting-scraper/
 * The GitHub Action (`scraper.yml`) triggers at **1:00 AM UTC**:
 
   * 🗓️ **Sunday:** Full scan of all available WarSpotting data
-  * 🗓️ **Monday, Thursday, Friday:** 30-day rolling scan for recent updates
-* The scraper collects data from both belligerents (Russia and Ukraine)
+  * 🗓️ **Monday, Wednesday, Friday:** 30-day rolling scan for recent updates
 * Results are written to `warspotting_losses.csv`
 * If there are any changes, the file is automatically committed back to the repository
-
----
-
-## 🚀 Manual Execution
-
-You can also run the script manually using GitHub's **"Run workflow"** button or locally with:
-
-```bash
-python automated_warspotting_scraper.py
-```
-
-Make sure Python 3.11+ is installed and dependencies (`pandas`, `requests`) are available.
 
 ---
 
@@ -80,6 +67,4 @@ pip install -r requirements.txt
 
 * Data provided by [WarSpotting.net](https://warspotting.net)
 * This project is for **educational and analytical** purposes only
-* Not affiliated with WarSpotting or any official organization
-
 ---
