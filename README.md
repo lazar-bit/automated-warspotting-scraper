@@ -8,6 +8,7 @@ The scraper supports:
 * ✅ **Incremental 30-day scans** (on Monday, Wednesday, and Friday)
 * ✅ **Scheduled automation** via GitHub Actions
 * ✅ **Output** in a single `CSV` file (`warspotting_losses.csv`), suitable for visualization and further analysis
+* ✅ **Automatic upload of the updated dataset to [Kaggle](https://www.kaggle.com/datasets/zsoltlazar/automated-warspotting-equipment-losses)** for easy access and sharing
 
 ---
 
@@ -31,8 +32,12 @@ automated-warspotting-scraper/
 
   * 🗓️ **Sunday:** Full scan of all available WarSpotting data
   * 🗓️ **Monday, Wednesday, Friday:** 30-day rolling scan for recent updates
+
 * Results are written to `warspotting_losses.csv`
+
 * If there are any changes, the file is automatically committed back to the repository
+
+* The updated CSV dataset is then uploaded to [Kaggle](https://www.kaggle.com/datasets/zsoltlazar/automated-warspotting-equipment-losses) via the Kaggle API, keeping the public dataset current and accessible
 
 ---
 
@@ -43,6 +48,7 @@ automated-warspotting-scraper/
 
   * `pandas`
   * `requests`
+  * `kaggle`  *(for uploading dataset to Kaggle)*
 
 Install dependencies with:
 
@@ -60,6 +66,7 @@ pip install -r requirements.txt
 * ML training data for predictive models
 * Conflict monitoring dashboards
 * Visualizing geospatial loss distributions
+* Easy data access via [Kaggle dataset](https://www.kaggle.com/datasets/zsoltlazar/automated-warspotting-equipment-losses)
 
 ---
 
@@ -67,4 +74,3 @@ pip install -r requirements.txt
 
 * Data provided by [WarSpotting.net](https://warspotting.net)
 * This project is for **educational and analytical** purposes only
----
