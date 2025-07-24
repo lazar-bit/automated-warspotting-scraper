@@ -26,3 +26,9 @@ jobs:
           git add warspotting_losses.csv
           git commit -m "🔄 Auto update CSV - $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
+      - name: Upload CSV to Kaggle
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          kaggle datasets version -p . -d zsoltlazar/automated-warspotting-equipment-losses -m "Update on $(date +'%Y-%m-%d')" --dir-mode zip
