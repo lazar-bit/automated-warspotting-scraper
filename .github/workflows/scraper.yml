@@ -31,4 +31,4 @@ jobs:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
         run: |
-          kaggle datasets version -p . -dataset zsoltlazar/automated-warspotting-equipment-losses -m "Update on $(date +'%Y-%m-%d')" --dir-mode zip
+            kaggle datasets version -p . -d zsoltlazar/automated-warspotting-equipment-losses -m "Update on $(date +'%Y-%m-%d')" --dir-mode zip
