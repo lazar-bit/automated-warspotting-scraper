@@ -26,6 +26,8 @@ automated-warspotting-scraper/
 
 ---
 
+> **Note:** The Kaggle dataset upload process creates a temporary `kaggle_dataset` folder inside the GitHub Actions runner environment to prepare files for upload. This folder **is not created or committed** inside GitHub repository and does not affect repo structure.
+
 ## ⚙️ How It Works
 
 * The GitHub Action (`scraper.yml`) triggers at **1:00 AM UTC**:
