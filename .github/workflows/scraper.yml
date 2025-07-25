@@ -2,23 +2,27 @@ name: Scheduled Warspotting Scraper
 
 on:
   schedule:
-    - cron: '0 1 * * 0'    # Sunday full scan
+    - cron: '0 1 * * 0'      # Sunday full scan
     - cron: '0 1 * * 1,3,5'  # 30-day scan on Mon, Wed, Fri
-  workflow_dispatch:  # Optional manual trigger
+  workflow_dispatch:         # Manual trigger
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
+
       - name: Install dependencies
         run: pip install pandas requests kaggle
+
       - name: Run scraper
         run: python automated_warspotting_scraper.py
+
       - name: Commit updated CSV
         run: |
           git config --global user.name "github-actions[bot]"
@@ -26,10 +30,22 @@ jobs:
           git add warspotting_losses.csv
           git commit -m "🔄 Auto update CSV - $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
+
+      - name: Prepare Kaggle dataset folder
+        run: |
+          mkdir -p kaggle_dataset
+          cp warspotting_losses.csv kaggle_dataset/
+          cat > kaggle_dataset/dataset-metadata.json <<EOF
+          {
+            "id": "zsoltlazar/automated-warspotting-equipment-losses",
+            "title": "Automated Warspotting Equipment Losses",
+            "licenses": [{"name": "CC0-1.0"}]
+          }
+          EOF
+
       - name: Upload CSV to Kaggle
         env:
           KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
         run: |
-          kaggle datasets version -p . --dataset zsoltlazar/automated-warspotting-equipment-losses -m "Auto update" --dir-mode zip
-
+          kaggle datasets version -p kaggle_dataset -m "Auto update $(date +'%Y-%m-%d')" --dir-mode zip
