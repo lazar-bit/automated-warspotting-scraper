@@ -20672,3 +20672,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 38243,2025-07-20,Infantry fighting vehicles,MT-LB,Destroyed,Russia,"Zelena Dolyna, Kramatorsk raion","49.1318,37.8478",49.1318,37.8478,,"Z, Cope cage, ◇, Jammer, Expanded cabin",,,
 38244,2025-07-21,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,Kursk oblast,,,,,Cope cage,,,
 38247,2025-07-21,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Vovchansk, Chuhuiv raion",,,,,,,,
+38303,2025-07-18,Tanks,T-62M,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,Cope cage,,,
+38297,2025-07-24,Infantry fighting vehicles,BMP-2 675-sb3KDZ,Destroyed,Russia,,,,,,"Turretless, Cope cage",,,
+38301,2025-07-24,Tanks,T-62*,Destroyed,Russia,Donetsk oblast,,,,,Turretless,,,
