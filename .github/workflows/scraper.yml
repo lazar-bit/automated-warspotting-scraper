@@ -1,4 +1,3 @@
-# Force refresh - test cron
 name: Scheduled Warspotting Scraper
 
 on:
