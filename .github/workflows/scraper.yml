@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: 3.11
       - name: Install dependencies
-        run: pip install pandas requests
+        run: pip install pandas requests kaggle
       - name: Run scraper
         run: python automated_warspotting_scraper.py
       - name: Commit updated CSV
