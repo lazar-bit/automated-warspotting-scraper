@@ -3,7 +3,7 @@ name: Scheduled Warspotting Scraper
 on:
   schedule:
     - cron: '0 1 * * 0'      # Sunday full scan
-    - cron: '0 1 * * *'      # 30-day scan run every day at 01:00 UTC
+    - cron: '0 1 * * *'      # Daily scan at 01:00 UTC
   workflow_dispatch:         # Manual trigger
 
 jobs:
@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0     # 👈 Important: fetch full history for rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,9 +29,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout main
+          git pull origin main --rebase
           git add warspotting_losses.csv
           git commit -m "🔄 Auto update CSV - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          git push origin main
 
       - name: Prepare Kaggle dataset folder
         run: |
