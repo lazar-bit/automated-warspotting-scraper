@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0     # 👈 Important: fetch full history for rebase
+          fetch-depth: 0     # 👈 fetch full history for rebase operations
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,12 +29,25 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # make sure we’re on main and up to date
           git fetch origin main
           git checkout main
-          git pull origin main --rebase
+
+          # stage and stash local CSV changes before rebasing
+          git add warspotting_losses.csv || true
+          git stash || true
+
+          # pull the latest remote commits safely
+          git pull origin main --rebase || true
+
+          # restore our local CSV updates
+          git stash pop || true
+
+          # commit and push changes
           git add warspotting_losses.csv
           git commit -m "🔄 Auto update CSV - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push origin main
+          git push origin main || (git pull --rebase && git push origin main)
 
       - name: Prepare Kaggle dataset folder
         run: |
