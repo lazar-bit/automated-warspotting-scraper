@@ -5,7 +5,7 @@ This Python-based automation tool periodically fetches and updates geolocated Ru
 The scraper supports:
 
 * ✅ **Full historical scans** (every Sunday)
-* ✅ **Incremental 30-day scans** (everyday)
+* ✅ **Incremental 30-day scans** (every Monday, Tuesday, Wednesday, Thursday, Friday, Saturday)
 * ✅ **Scheduled automation** via GitHub Actions
 * ✅ **Output** in a single `CSV` file (`warspotting_losses.csv`), suitable for visualization and further analysis
 * ✅ **Automatic upload of the updated dataset to [Kaggle](https://www.kaggle.com/datasets/zsoltlazar/automated-warspotting-equipment-losses)** for easy access and sharing
