@@ -21697,6 +21697,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40425,2025-10-25,Infantry fighting vehicles,BTR-82AT,Abandoned,Russia,"Rusyn Yar, Kramatorsk raion","48.43225,37.504806",48.43225,37.504806,,"Cope cage, Damaged, Jammer",,,
 40426,2025-10-26,Infantry fighting vehicles,Unknown IFV,Abandoned,Russia,"Mykhailivka (Hrodivka hromada), Pokrovsk raion","48.287911,37.347632",48.287911,37.347632,,"Damaged, Turtle",,,
 40390,2025-10-27,"Command posts, communication",R-149MA1 command and staff vehicle,Abandoned,Russia,"Myrnohrad, Pokrovsk raion","48.273047,37.299571",48.273047,37.299571,,"Cope cage, Damaged",,,
-40396,2025-10-27,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Shakhove, Pokrovsk raion","48.45920,37.37756",48.45920,37.37756,,,,,
+40396,2025-10-27,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Shakhove, Pokrovsk raion","48.45920,37.37756",48.4592,37.37756,,,,,
 40423,2025-10-27,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Volodymyrivka, Pokrovsk raion","48.433769,37.391069",48.433769,37.391069,,Turtle,,,
 40424,2025-10-27,Infantry fighting vehicles,BMP-3,Destroyed,Russia,"Shakhove, Pokrovsk raion","48.45209,37.3856",48.45209,37.3856,,Cope cage,,,
