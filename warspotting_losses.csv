@@ -21700,3 +21700,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40396,2025-10-27,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Shakhove, Pokrovsk raion","48.45920,37.37756",48.4592,37.37756,,,,,
 40423,2025-10-27,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Volodymyrivka, Pokrovsk raion","48.433769,37.391069",48.433769,37.391069,,Turtle,,,
 40424,2025-10-27,Infantry fighting vehicles,BMP-3,Destroyed,Russia,"Shakhove, Pokrovsk raion","48.45209,37.3856",48.45209,37.3856,,Cope cage,,,
+40452,2025-10-05,Infantry fighting vehicles,BMP-3,Destroyed,Russia,"Yablunivka, Kramatorsk raion","48.421730,37.553292",48.421730,37.553292,,Cope cage,,,
+40439,2025-10-28,Tanks,T-62M Obr. 2022,Destroyed,Russia,"Siverskodonetsk raion, Luhansk oblast",,,,36th Motor Rifle Regiment,Cope cage,,,
+40447,2025-10-30,Anti-aircraft systems,9A33BM TELAR (for 9K33M3 'Osa-AKM'),Destroyed,Russia,South Ukraine,,,,,,,,
