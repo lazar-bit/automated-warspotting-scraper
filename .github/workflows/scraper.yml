@@ -49,3 +49,49 @@ jobs:
           KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
         run: |
           kaggle datasets version -p kaggle_dataset -m "Auto update $(date +'%Y-%m-%d')" --dir-mode zip
+
+      - name: Append CSV to Google Sheet
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+        run: |
+          pip install gspread pandas
+          echo "$GOOGLE_SERVICE_ACCOUNT_KEY" > service_account.json
+          python - <<'PYCODE'
+import gspread
+import pandas as pd
+
+# === CONFIG ===
+SHEET_ID = "1jtEbRTZBcHTicifxfoUMgosIKMCJm7XBaDRTFGX1p18"
+CSV_PATH = "warspotting_losses.csv"
+TAB_NAME = "Warspotting"
+UNIQUE_COLUMN = "id"  # change if your dataset uses another unique identifier
+# ===============
+
+# Load local CSV
+df_new = pd.read_csv(CSV_PATH)
+
+# Connect to Google Sheets
+gc = gspread.service_account(filename="service_account.json")
+sh = gc.open_by_key(SHEET_ID)
+
+# Try to open the worksheet
+try:
+    worksheet = sh.worksheet(TAB_NAME)
+    existing_data = worksheet.get_all_records()
+    df_existing = pd.DataFrame(existing_data)
+except gspread.exceptions.WorksheetNotFound:
+    worksheet = sh.add_worksheet(title=TAB_NAME, rows="1000", cols="20")
+    df_existing = pd.DataFrame()
+
+# Merge data (avoid duplicates if possible)
+if not df_existing.empty and UNIQUE_COLUMN in df_existing.columns and UNIQUE_COLUMN in df_new.columns:
+    df_combined = pd.concat([df_existing, df_new]).drop_duplicates(subset=[UNIQUE_COLUMN], keep="last")
+else:
+    df_combined = pd.concat([df_existing, df_new])
+
+# Update worksheet
+worksheet.clear()
+worksheet.update([df_combined.columns.values.tolist()] + df_combined.values.tolist())
+
+print(f"✅ Uploaded {len(df_combined)} total rows to '{TAB_NAME}' in Google Sheet.")
+PYCODE
