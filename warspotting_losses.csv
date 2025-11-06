@@ -21765,3 +21765,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40567,2025-11-04,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
 40569,2025-11-04,Other,'Shanghai' logistics UGV,Destroyed,Russia,"Luhove, Vasylivka raion",,,,,,,,
 40572,2025-11-04,Tanks,Unknown tank,Destroyed,Russia,"Shevchenko Pershe, Pokrovsk raion","48.372647,37.414378",48.372647,37.414378,,"Cope cage, Jammer, Additional armour",,,
+40574,2025-11-02,Transport,Ural-4320,Destroyed,Russia,"Ploshchanka, Svatove raion",,,,,,,,
+40578,2025-11-05,Infantry fighting vehicles,BMP-1 or -2,Destroyed,Russia,"Razine, Pokrovsk raion","48.363900,37.320193",48.363900,37.320193,,"Cope cage, Jammer, Additional armour",,,
+40579,2025-11-05,Infantry fighting vehicles,1V125/145 PRP-4(M) 'Nard'/'Deyteriy' artillery reconnaissance vehicle,Destroyed,Russia,"Razine, Pokrovsk raion","48.36369,37.31928",48.36369,37.31928,,"Cope cage, Underwater, Jammer, Additional armour",,,
+40580,2025-11-05,Infantry fighting vehicles,BRM-1 675-sb3KDZ,Abandoned,Russia,"Razine, Pokrovsk raion","48.36381,37.319427",48.36381,37.319427,,"Cope cage, Damaged, Jammer",,,
