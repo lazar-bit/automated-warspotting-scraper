@@ -21772,3 +21772,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40582,2025-11-03,"Command posts, communication",R-417 'Baget' microwave radio relay station,Destroyed,Russia,Rostov oblast,,,,,V,,,
 40576,2025-11-05,Infantry fighting vehicles,PRP-4A 'Argus' artillery reconnaissance vehicle,Destroyed,Russia,"Myrnohrad, Pokrovsk raion","48.30466,37.30169",48.30466,37.30169,,Turtle,,,
 40584,2025-11-05,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,"Nove, Kramatorsk raion",,,,,"Turretless, Turtle",,,
+40593,2025-11-07,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Malynivka, Pokrovsk raion","48.325507,37.475674",48.325507,37.475674,,Jammer,,,
