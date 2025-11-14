@@ -21810,3 +21810,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40710,2025-11-09,Tanks,Unknown T-80 Obr. 2022,Destroyed,Russia,"Volodymyrivka, Pokrovsk raion","48.432625,37.391477",48.432625,37.391477,155th Separate Naval Infantry Brigade,"Mine plow/roller, Turtle",,,
 40711,2025-11-09,Infantry fighting vehicles,BTR-82A(M),Destroyed,Russia,"Volodymyrivka, Pokrovsk raion","48.433611,37.391028",48.433611,37.391028,155th Separate Naval Infantry Brigade,"Cope cage, ☐, Additional armour",,,
 40712,2025-11-09,Infantry fighting vehicles,BTR-82A(M),Destroyed,Russia,"Volodymyrivka, Pokrovsk raion","48.433694,37.390972",48.433694,37.390972,155th Separate Naval Infantry Brigade,"Cope cage, ☐, Additional armour",,,
+40726,2025-10-16,Infantry fighting vehicles,BMP-2(K),Damaged,Russia,East Ukraine,,,,,,,,
+40720,2025-10-27,Tanks,T-62M,Destroyed,Russia,,,,,,"Cope cage, Jammer",,,
+40718,2025-10-29,Infantry fighting vehicles,BMP-2 675-sb3KDZ,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+40716,2025-11-09,Transport,GAZ-3308 'Sadko',Destroyed,Russia,East Ukraine,,,,,"Cope cage, Jammer",,,
+40715,2025-11-11,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
