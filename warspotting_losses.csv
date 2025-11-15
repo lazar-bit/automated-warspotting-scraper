@@ -21815,3 +21815,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40718,2025-10-29,Infantry fighting vehicles,BMP-2 675-sb3KDZ,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
 40716,2025-11-09,Transport,GAZ-3308 'Sadko',Destroyed,Russia,East Ukraine,,,,,"Cope cage, Jammer",,,
 40715,2025-11-11,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+40743,2025-11-01,Tanks,T-72B3 Obr. 2025,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,7th Separate Guards Motor Rifle Brigade (ex-LNR),"Mine plow/roller, Cope cage",,,
+40741,2025-11-06,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Nove (Tokmak hromada), Polohy raion",,,,,Armour kit missing,,,
