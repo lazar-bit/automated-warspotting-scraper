@@ -21852,3 +21852,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40898,2025-11-17,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,"Cope cage, Jammer",,,
 40899,2025-11-17,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Cope cage,,,
 40900,2025-11-17,Transport,Ural-4320,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,Additional armour,,,
+40919,2025-11-12,Infantry mobility vehicles,"ASN-233115-0000010-10 ""Tigr-M SpN""",Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,61st Separate Guards Naval Infantry Brigade,Turretless,,,
+40924,2025-11-13,Other,'Kuryer' armed UGV,Destroyed,Russia,"Torske (Lyman hromada), Kramatorsk raion","48.990148,37.976031",48.990148,37.976031,,Shattered,,,
+40918,2025-11-17,Transport,Ural-4320,Destroyed,Russia,,,,,,KUNG,,,
