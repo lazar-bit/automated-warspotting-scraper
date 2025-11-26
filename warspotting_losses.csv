@@ -21875,3 +21875,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 40941,2025-11-21,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Mala Tokmachka, Polohy raion",,,,,"Jammer, Expanded cabin, Additional armour",,,
 40940,2025-11-22,Transport,KamAZ 6x6,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
 41032,2025-11-21,Tanks,T-55A,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+41044,2025-11-21,Tanks,Unknown T-72 Obr. 2022,Abandoned,Russia,"Mala Tokmachka, Polohy raion","47.498343,35.932398",47.498343,35.932398,,"Cope cage, Additional armour",,,
+41042,2025-11-25,Infantry fighting vehicles,BMP-2 675-sb3KDZ,Destroyed,Russia,"Pokrovsk, Pokrovsk raion","48.282148,37.188314",48.282148,37.188314,,"Cope cage, Additional armour",,,
