@@ -21883,3 +21883,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41056,2025-11-25,Transport,Ural-63706-0122 'Tornado-U',Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
 41055,2025-11-26,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,Donetsk oblast,,,,,Shattered,,,
 41064,2025-11-26,Infantry fighting vehicles,MT-LB,Destroyed,Russia,,,,,,"Cope cage, Additional armour, Removed turret",,,
+41073,2025-11-08,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Vasylivka raion, Zaporizhzhia oblast",,,,,,,,
+41074,2025-11-11,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Shevchenko (Pokrovsk hromada), Pokrovsk raion","48.235154,37.164215",48.235154,37.164215,,,,,
+41034,2025-11-24,Transport,KamAZ 6x6,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+41075,2025-11-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,"Cope cage, Jammer",,,
+41071,2025-11-27,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Leontovychi, Pokrovsk raion","48.257529,37.145119",48.257529,37.145119,,Cope cage,,,
