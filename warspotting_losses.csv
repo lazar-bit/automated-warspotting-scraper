@@ -21888,3 +21888,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41034,2025-11-24,Transport,KamAZ 6x6,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
 41075,2025-11-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,"Cope cage, Jammer",,,
 41071,2025-11-27,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Leontovychi, Pokrovsk raion","48.257529,37.145119",48.257529,37.145119,,Cope cage,,,
+41086,2025-11-21,Tanks,Unknown T-72 Obr. 2022,Destroyed,Russia,"Novoprokopivka, Polohy raion","47.42241,35.84402",47.42241,35.84402,,"Cope cage, ∆, Turtle, ▲",,,
+41085,2025-11-27,Tanks,Unknown tank,Destroyed,Russia,"Myroliubivka, Pokrovsk raion","48.282545,37.375010",48.282545,37.375010,,Turretless,,,
