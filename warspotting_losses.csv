@@ -21922,3 +21922,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41238,2025-11-29,Engineering,MTU-72 bridge layer,Abandoned,Russia,"Volodymyrivka, Pokrovsk raion","48.432129,37.338463",48.432129,37.338463,,Damaged,,,
 41250,2025-12-02,Tanks,T-80*,Destroyed,Russia,"Razine, Pokrovsk raion","48.373083,37.335833",48.373083,37.335833,40th Separate Naval Infantry Brigade,"Mine plow/roller, Jammer, Turtle",,,
 41251,2025-12-03,Engineering,BTS-4V armoured recovery vehicle,Destroyed,Russia,"Torske (Lyman hromada), Kramatorsk raion","49.044876,38.051738",49.044876,38.051738,,Cope cage,,,
+41265,2025-11-10,Infantry fighting vehicles,BMP-1AM 675-sb3KDZ,Destroyed,Russia,"Lypove, Kramatorsk raion","49.159306,37.812171",49.159306,37.812171,59th Guards Tank Regiment,"Z, Cope cage, ◇, Jammer, Additional armour",,,
+41243,2025-11-21,Tanks,Unknown tank,Destroyed,Russia,"Kalynivske (Velykomykhailivka hromada), Synelnykove raion","47.870631,36.441948",47.870631,36.441948,,"Mine plow/roller, Jammer, Turtle",,,
+41258,2025-11-22,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kalynivske (Velykomykhailivka hromada), Synelnykove raion","47.870693,36.439872",47.870693,36.439872,,"Cope cage, Jammer",,,
