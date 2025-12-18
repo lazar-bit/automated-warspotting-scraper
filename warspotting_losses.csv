@@ -22023,3 +22023,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41551,2025-12-16,Infantry fighting vehicles,BMP-1 or -2,Destroyed,Russia,"Novopavlivka, Synelnykove raion","48.116378,36.788245",48.116378,36.788245,,Cope cage,,,
 41552,2025-12-16,Tanks,Unknown T-80 Obr. 2022,Destroyed,Russia,"Filiia, Synelnykove raion","48.082434,36.796803",48.082434,36.796803,,"Cope cage, Jammer",,,
 41553,2025-12-16,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
+41556,2025-11-24,Tanks,T-90M 'Proryv',Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+41568,2025-11-29,Transport,Ural-4320,Destroyed,Russia,Donetsk oblast,,,,Southern Military District,Cope cage,,,
+41555,2025-12-05,Engineering,BREM-Ch (BREM-4) armoured recovery vehicle,Destroyed,Russia,"Makiivka, Svatove raion",,,,,"Cope cage, Additional armour",,,
+41565,2025-12-16,Tanks,T-72B3 Obr. 2022,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Cope cage,,,
+41563,2025-12-17,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Serebrianka reserve, Siverskodonetsk raion",,,,,"Cope cage, Additional armour",,,
