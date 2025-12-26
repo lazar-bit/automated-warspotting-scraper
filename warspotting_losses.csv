@@ -22104,3 +22104,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41693,2025-12-22,Infantry fighting vehicles,BTR-80 or -82,Destroyed,Russia,"Boikivka, Pokrovsk raion","48.393479,37.304243",48.393479,37.304243,Pacific Fleet,,,,
 41758,2025-12-24,Infantry fighting vehicles,BTR-82A(M),Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,"Cope cage, Jammer",,,
 41759,2025-12-24,Engineering,BTS-4(A) armoured recovery vehicle,Destroyed,Russia,"Petrivka (Selydove hromada), Pokrovsk raion","48.175606,37.195596",48.175606,37.195596,,Turtle,,,
+41757,2025-11-28,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,"Serednie, Kramatorsk raion","49.123940,37.684460",49.123940,37.684460,,"Cope cage, Jammer",,,
+41763,2025-12-03,Tanks,T-80BV Obr. 2022,Destroyed,Russia,"Torske (Lyman hromada), Kramatorsk raion","48.98041,37.99413",48.98041,37.99413,25th Combined Arms Army,Cope cage,,,
+41766,2025-12-15,Transport,Ural-4320,Destroyed,Russia,"Yampolivka, Kramatorsk raion","49.071470,38.003100",49.071470,38.003100,,"Cope cage, KUNG",,,
+41767,2025-12-16,Infantry fighting vehicles,BMP-1 or -2,Destroyed,Russia,"Serednie, Kramatorsk raion","49.11075,37.70256",49.11075,37.70256,423rd Motor Rifle Regiment,"Z, Cope cage, ◇, Underwater, Jammer",,,
+41769,2025-12-20,Tanks,T-62M Obr. 2022,Destroyed,Russia,"Nadiivka, Pokrovsk raion","48.145577,37.003779",48.145577,37.003779,,"Cope cage, Jammer",,,
