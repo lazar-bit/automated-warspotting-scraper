@@ -22154,3 +22154,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41854,2025-12-26,Transport,Ural-4320,Destroyed,Russia,"Balka Zhuravka (Nevske), Svatove raion","49.16692,37.99703",49.16692,37.99703,4th Guards Tank Division,"Z, Cope cage, ◇, Jammer",,,
 41873,2025-12-26,Anti-aircraft systems,72V6 combat vehicle (for 96K6 'Pantsir-S1'),Destroyed,Russia,,,,,,Loitering,,,
 41852,2025-12-29,Rocket and missile artillery,107mm Type 75 towed MRL,Destroyed,Russia,Kursk oblast,,,,,,,,
+41903,2025-12-05,Transport,ZiL-131-based vehicle,Destroyed,Russia,"Stepove (Velykomykhailivka hromada), Synelnykove raion","47.888522,36.428076",47.888522,36.428076,,"Improvised, Expanded cabin",,,
+41904,2025-12-05,Transport,ZiL-131-based vehicle,Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,"Jammer, Improvised, Expanded cabin",,,
+41905,2025-12-05,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Stepove (Velykomykhailivka hromada), Synelnykove raion","47.888580,36.428087",47.888580,36.428087,,Jammer,,,
+41888,2025-12-29,Other,'Kuryer' armed UGV,Destroyed,Russia,"Chasiv Yar, Bakhmut raion",,,,,,,,
+41925,2025-12-30,Infantry mobility vehicles,AMN-233114 'Tigr-M' with 'Arbalet-DM',Destroyed,Russia,"Sahy, Kherson raion","46.615631,32.791872",46.615631,32.791872,,Additional armour,,,
