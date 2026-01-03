@@ -22184,3 +22184,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 41971,2025-12-29,Transport,Unknown truck,Destroyed,Russia,,,,,,,,,
 41972,2025-12-29,Transport,Unknown truck,Destroyed,Russia,,,,,,,,,
 41977,2025-12-30,Transport,Ural-4320,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Jammer",,,
+41992,2025-12-17,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+41993,2025-12-17,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+41981,2025-12-20,Transport,KamAZ-4385,Destroyed,Russia,"Korenevo raion, Kursk oblast",,,,,Cope cage,,,
