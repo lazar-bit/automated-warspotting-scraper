@@ -22156,3 +22156,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42013,2026-01-03,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Dibrova, Kramatorsk raion",,,,,,,,
 42012,2026-01-04,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,"Cope cage, Jammer",,,
 42055,2026-01-05,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Jammer,,,
+42063,2025-12-14,Tanks,T-90M 'Proryv',Destroyed,Russia,Donetsk oblast,,,,,Turretless,,,
+42061,2025-12-17,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,,,,,,"Turretless, Cope cage, Jammer",,,
+42062,2025-12-28,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
