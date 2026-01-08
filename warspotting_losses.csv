@@ -22159,3 +22159,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42063,2025-12-14,Tanks,T-90M 'Proryv',Destroyed,Russia,Donetsk oblast,,,,,Turretless,,,
 42061,2025-12-17,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,,,,,,"Turretless, Cope cage, Jammer",,,
 42062,2025-12-28,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
+42065,2025-12-13,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,,,,
+42072,2025-12-26,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Malynivka, Pokrovsk raion","48.3347,37.4157",48.3347,37.4157,,"Cope cage, Jammer, Additional armour",,,
+42073,2025-12-26,Transport,Ural-4320,Destroyed,Russia,"Malynivka, Pokrovsk raion","48.33471,37.41677",48.33471,37.41677,,Cope cage,,,
+42074,2025-12-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Malynivka, Pokrovsk raion","48.338709,37.409841",48.338709,37.409841,,Cope cage,,,
+42071,2026-01-07,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
