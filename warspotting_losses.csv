@@ -22208,3 +22208,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42195,2026-01-12,Other,'Shanghai' logistics UGV,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,,,,
 42197,2026-01-12,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Volnovakha raion, Donetsk oblast",,,,,"V, Turtle, Expanded cabin",,,
 42198,2026-01-12,Tanks,Unknown tank,Destroyed,Russia,"Volnovakha raion, Donetsk oblast",,,,,Turtle,,,
+42213,2026-01-13,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,,,,,
+42214,2026-01-13,Tanks,T-80BV,Captured,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,"V, Cope cage, ☐, Additional armour",,,
+42231,2026-01-13,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
