@@ -22211,3 +22211,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42213,2026-01-13,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,,,,,
 42214,2026-01-13,Tanks,T-80BV,Captured,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,"V, Cope cage, ☐, Additional armour",,,
 42231,2026-01-13,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
+42239,2026-01-14,Transport,Ural-4320,Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,,,,
