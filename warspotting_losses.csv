@@ -22218,3 +22218,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42254,2026-01-15,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
 42255,2026-01-15,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,Donetsk oblast,,,,,"Shattered, Cope cage",,,
 42256,2026-01-15,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Huliaipole, Polohy raion","47.671534,36.242504",47.671534,36.242504,,"Turretless, Shattered, Cope cage, Jammer",,,
+42270,2025-12-21,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,1435th Motor Rifle Regiment,,,,
+42267,2026-01-05,Infantry fighting vehicles,BMP-2(K),Destroyed,Russia,"Pokrovsk, Pokrovsk raion","48.26848,37.18389",48.26848,37.18389,27th Guards Motor Rifle Division (ex-21st Brigade),"Cope cage, Jammer, Additional armour",,,
