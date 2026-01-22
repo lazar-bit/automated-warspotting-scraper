@@ -22224,3 +22224,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42309,2026-01-18,Transport,KamAZ 6x6,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Jammer,,,
 42311,2026-01-19,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
 42312,2026-01-19,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
+42381,2025-12-31,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,,,,
+42382,2025-12-31,Transport,ZiL-131,Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,,,,
+42383,2026-01-13,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,"Cope cage, Underwater, Turtle",,,
+42374,2026-01-20,Transport,GAZ-3308 'Sadko',Destroyed,Russia,"Sumy raion, Sumy oblast",,,,,,,,
+42376,2026-01-20,Transport,ZiL-131,Destroyed,Russia,Donetsk oblast,,,,,,,,
