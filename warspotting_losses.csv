@@ -22229,3 +22229,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42383,2026-01-13,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,"Cope cage, Underwater, Turtle",,,
 42374,2026-01-20,Transport,GAZ-3308 'Sadko',Destroyed,Russia,"Sumy raion, Sumy oblast",,,,,,,,
 42376,2026-01-20,Transport,ZiL-131,Destroyed,Russia,Donetsk oblast,,,,,,,,
+42375,2026-01-20,Tanks,T-62 Obr. 1967,Destroyed,Russia,Zaporizhzhia oblast,,,,,"Cope cage, Jammer",,,
+42399,2026-01-22,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,South Ukraine,,,,,,,,
