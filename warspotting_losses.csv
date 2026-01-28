@@ -22274,3 +22274,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42459,2026-01-20,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk, Pokrovsk raion","48.248312,37.190888",48.248312,37.190888,,Jammer,,,
 42456,2026-01-21,Transport,Ural-4320,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,"Z, Cope cage, ◇, Jammer",,,
 42453,2026-01-24,Transport,Ural-375D,Destroyed,Russia,"Dobropillia, Polohy raion","47.79989,36.25464",47.79989,36.25464,,"Shattered, Jammer, Improvised",,,
+42494,2026-01-27,Other,'Kuryer' logistics UGV,Damaged,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Flipped,,,
