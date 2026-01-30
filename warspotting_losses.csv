@@ -22277,3 +22277,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42494,2026-01-27,Other,'Kuryer' logistics UGV,Damaged,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Flipped,,,
 42499,2025-12-31,Airplanes,An-26 transport aircraft,Damaged,Russia,"Kirovske airbase, Feodosiia raion","45.172036,35.167248",45.172036,35.167248,,Loitering,,,
 42524,2026-01-28,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
+42498,2025-12-31,Airplanes,Su-24M or MR,Damaged,Russia,"Saky airbase, Yevpatoriia raion","45.087857,33.589787",45.087857,33.589787,43rd Separate Naval Attack Regiment,Loitering,,,
