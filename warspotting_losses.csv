@@ -22297,3 +22297,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42593,2026-02-02,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,Jammer,,,
 42603,2026-01-23,Transport,GAZ-66,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,27th Separate Guards Motor Rifle Brigade,"Z, Cope cage, ◇",,,
 42491,2026-01-25,Tanks,T-62M Obr. 2022,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,"Cope cage, Jammer",,,
+42648,2026-02-03,Other,'Omich(-2)' multifunctional UGV,Destroyed,Russia,"Pokrovsk, Pokrovsk raion","48.269182,37.177656",48.269182,37.177656,,,,,
