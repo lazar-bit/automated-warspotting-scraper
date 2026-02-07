@@ -22301,3 +22301,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42662,2026-01-11,Infantry fighting vehicles,BMP-3,Destroyed,Russia,Donetsk oblast,,,,,"Turretless, Cope cage",,,
 42665,2026-01-28,Infantry fighting vehicles,BMP-2(K),Destroyed,Russia,Donetsk oblast,,,,,"Turretless, Cope cage",,,
 42668,2026-02-05,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
+42659,2026-01-12,Infantry fighting vehicles,BMP-1 or -2 675-sb3KDZ,Damaged,Russia,"Pokrovsk, Pokrovsk raion","48.253234,37.189574",48.253234,37.189574,,Cope cage,,,
+42671,2026-02-05,Transport,KamAZ 8x8,Destroyed,Russia,"Shamino, Shebekino raion","50.361471,36.731825",50.361471,36.731825,,,,,
