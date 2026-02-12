@@ -22345,3 +22345,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42667,2026-02-04,Infantry fighting vehicles,BMP-1 or -2,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Mine plow/roller, Cope cage, Jammer, Improvised",,,
 42761,2026-02-09,Rocket and missile artillery,220mm 9P140-1 combat vehicle (for 9K57-1 'Uragan-1'),Destroyed,Russia,"Volodymyrivka, Vasylivka raion","47.393502,35.447459",47.393502,35.447459,,Cope cage,,,
 42760,2026-02-10,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,Jammer,,,
+42787,2026-02-11,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,,,,
