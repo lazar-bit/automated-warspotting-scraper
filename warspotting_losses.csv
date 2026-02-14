@@ -22349,3 +22349,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42795,2026-02-09,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,255th Guards Motor Rifle Regiment,,,,
 42806,2026-02-11,Tanks,T-62*,Destroyed,Russia,East Ukraine,,,,,"Mine plow/roller, Cope cage, Additional armour, Removed turret",,,
 42809,2026-02-12,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,Jammer,,,
+42823,2026-02-11,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
