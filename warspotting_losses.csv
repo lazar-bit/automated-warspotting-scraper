@@ -22396,4 +22396,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42925,2026-02-13,Engineering,BTS-4(A) armoured recovery vehicle,Destroyed,Russia,"Kalynivske (Velykomykhailivka hromada), Synelnykove raion","47.839855,36.431512",47.839855,36.431512,,"Cope cage, Jammer",,,
 42917,2026-02-14,Vessels,Project 02510 BK-16 high-speed assault boat,Destroyed,Russia,"Novoozernoe, Yevpatoriia raion","45.399708,33.132436",45.399708,33.132436,,Loitering,,,
 42918,2026-02-16,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,Flipped,,,
-42620,2026-02-02,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Ziborovka, Shebekino raion","50.35610,36.68777",50.35610,36.68777,,"Cope cage, ◇, ✕, Additional armour",,,
+42620,2026-02-02,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Ziborovka, Shebekino raion","50.35610,36.68777",50.3561,36.68777,,"Cope cage, ◇, ✕, Additional armour",,,
+42950,2026-02-18,Transport,ZiL-131,Destroyed,Russia,"Dobropillia, Polohy raion","47.78577,36.197019",47.78577,36.197019,,,,,
