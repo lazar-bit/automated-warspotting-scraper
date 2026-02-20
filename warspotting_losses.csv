@@ -22398,3 +22398,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 42918,2026-02-16,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,Flipped,,,
 42620,2026-02-02,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Ziborovka, Shebekino raion","50.35610,36.68777",50.3561,36.68777,,"Cope cage, ◇, ✕, Additional armour",,,
 42950,2026-02-18,Transport,ZiL-131,Destroyed,Russia,"Dobropillia, Polohy raion","47.78577,36.197019",47.78577,36.197019,,,,,
+42958,2026-01-28,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,,,,,
