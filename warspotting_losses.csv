@@ -22442,3 +22442,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43004,2026-02-21,Infantry fighting vehicles,MT-LBu,Destroyed,Russia,,,,,,Cope cage,,,
 42993,2026-02-22,Anti-aircraft systems,9A331M TLAR (for 9K332 'Tor-M2'),Destroyed,Russia,"Shevchenko (Mykilske hromada), Mariupol raion","47.217032,37.446055",47.217032,37.446055,,Loitering,,,
 43008,2026-02-08,Tanks,T-80BV,Destroyed,Russia,Kursk oblast,,,,,Cope cage,,,
+43071,2026-02-17,Tanks,T-62*,Destroyed,Russia,"Novovasylivka, Pokrovsk raion","48.186386,37.048030",48.186386,37.048030,,Cope cage,,,
+43069,2026-02-20,Rocket and missile artillery,122mm 9P138 (for 9K55 'Grad-1'),Destroyed,Russia,"Dibrova, Siverskodonetsk raion","49.023838,38.058388",49.023838,38.058388,36th Motor Rifle Regiment,Cope cage,,,
+43068,2026-02-22,Anti-aircraft systems,9A33BM TELAR (for 9K33M3 'Osa-AKM'),Damaged,Russia,,,,,,,,,
+43067,2026-02-24,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,Zaporizhzhia oblast,,,,,"Cope cage, Loitering",,,
