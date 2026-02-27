@@ -22453,3 +22453,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43066,2026-02-24,Anti-aircraft systems,9A310M1-2 TELAR (for 9K37M1-2 'Buk-M1-2'),Damaged,Russia,"Svobodne, Donetsk raion",,,,,"Loitering, Additional armour",,,
 43077,2026-02-25,Anti-aircraft systems,Launcher for S-300 or -400,Destroyed,Russia,"Kurhanne, Simferopol raion","45.0818172,33.9634485",45.0818172,33.9634485,,Loitering,,,
 43094,2026-02-25,Infantry fighting vehicles,1V125/145 PRP-4(M) 'Nard'/'Deyteriy' artillery reconnaissance vehicle,Destroyed,Russia,,,,,,Turretless,,,
+43096,2026-02-25,"Radars, jammers",92N6A engagement radar (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Sofiivka, Simferopol raion","45.081578,33.964789",45.081578,33.964789,,Loitering,,,
+43099,2026-02-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Jammer,,,
