@@ -22455,3 +22455,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43094,2026-02-25,Infantry fighting vehicles,1V125/145 PRP-4(M) 'Nard'/'Deyteriy' artillery reconnaissance vehicle,Destroyed,Russia,,,,,,Turretless,,,
 43096,2026-02-25,"Radars, jammers",92N6A engagement radar (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Sofiivka, Simferopol raion","45.081578,33.964789",45.081578,33.964789,,Loitering,,,
 43099,2026-02-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Jammer,,,
+43111,2026-02-26,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,"Shattered, Z, Cope cage, ◇",,,
+43109,2026-02-27,Transport,Ural-4320,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,"Cope cage, ☐",,,
+43110,2026-02-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,Jammer,,,
