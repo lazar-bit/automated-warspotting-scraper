@@ -22477,3 +22477,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43152,2026-03-01,"Command posts, communication",Command post (for 51U6 'Kasta-2E1' surveillance radar),Destroyed,Russia,Zaporizhzhia oblast,,,,,"Loitering, KUNG",,,
 43153,2026-03-01,"Radars, jammers",Antenna vehicle (for 51U6 'Kasta-2E1' surveillance radar),Destroyed,Russia,Zaporizhzhia oblast,,,,,Loitering,,,
 43154,2026-03-02,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,"Jammer, Turtle, Hedgehog",,,
+43217,2026-02-05,Helicopters,Ka-27* naval helicopter,Destroyed,Russia,"'Syvash' drilling rig, Black Sea","45.70522,31.87492",45.70522,31.87492,,Loitering,,,
+43225,2026-03-04,Transport,ZiL-131,Destroyed,Russia,"Kalynivske (Velykomykhailivka hromada), Synelnykove raion","47.869818,36.441067",47.869818,36.441067,,,,,
