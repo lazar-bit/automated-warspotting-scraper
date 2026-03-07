@@ -22479,3 +22479,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43154,2026-03-02,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,"Jammer, Turtle, Hedgehog",,,
 43217,2026-02-05,Helicopters,Ka-27* naval helicopter,Destroyed,Russia,"'Syvash' drilling rig, Black Sea","45.70522,31.87492",45.70522,31.87492,,Loitering,,,
 43225,2026-03-04,Transport,ZiL-131,Destroyed,Russia,"Kalynivske (Velykomykhailivka hromada), Synelnykove raion","47.869818,36.441067",47.869818,36.441067,,,,,
+43228,2026-02-10,Transport,GAZ-66,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Jammer,,,
+43229,2026-02-28,Transport,KamAZ 6x6,Destroyed,Russia,"Torske (Lyman hromada), Kramatorsk raion","48.975640,37.990380",48.975640,37.990380,Moskva (ex-Western) Military District,"Z, ◇",,,
+43230,2026-03-04,Infantry fighting vehicles,BMP-3,Destroyed,Russia,Kursk oblast,,,,,"◇, ✕, Hedgehog",,,
+43231,2026-03-05,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,"Cope cage, Expanded cabin",,,
+43227,2026-03-06,Anti-aircraft systems,9A331M TLAR (for 9K332 'Tor-M2'),Destroyed,Russia,Zaporizhzhia oblast,,,,,Loitering,,,
