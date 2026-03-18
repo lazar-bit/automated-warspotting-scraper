@@ -22563,3 +22563,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43447,2026-03-16,Transport,Ural-4320,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
 43451,2026-03-16,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,"Cope cage, Additional armour",,,
 43452,2026-03-16,Transport,Ural-4320,Destroyed,Russia,,,,,,,,,
+43444,2026-03-16,Transport,9T244 transloader (for 9K330/331 'Tor(-M1)'),Damaged,Russia,"Zoria, Berdiansk raion","47.293013,36.348610",47.293013,36.348610,,Loitering,,,
+43448,2026-03-16,"Radars, jammers",36D6 ST-68U surveillance radar,Damaged,Russia,Zaporizhzhia oblast,,,,,Loitering,,,
+43460,2026-03-17,Infantry mobility vehicles,Asteys-7020 'Patrol',Destroyed,Russia,"Kalynivka, Skadovsk raion","46.141953,32.564715",46.141953,32.564715,,,,,
