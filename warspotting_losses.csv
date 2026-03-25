@@ -22611,3 +22611,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43607,2026-03-22,Anti-aircraft systems,9A316 TEL (for 9K317 'Buk-M2'),Destroyed,Russia,"Pervoe Maya, Klintsy raion","52.748437,32.177750",52.748437,32.17775,,Loitering,,,
 43571,2026-03-19,Infantry fighting vehicles,BMP-3,Destroyed,Russia,"Shandryholove, Kramatorsk raion","49.095012,37.727428",49.095012,37.727428,,"Cope cage, Jammer, Additional armour",,,
 43622,2026-03-23,Anti-aircraft systems,9A331M TLAR (for 9K332 'Tor-M2'),Destroyed,Russia,"Kurakhivka, Pokrovsk raion","48.031356,37.375167",48.031356,37.375167,,Loitering,,,
+43655,2026-03-24,Rocket and missile artillery,3S55 K-340P TEL (for 3K55 K300P 'Bastion-P'),Destroyed,Russia,"Aktachy, Bakhchysarai raion","44.779553,33.758501",44.779553,33.758501,,Loitering,,,
