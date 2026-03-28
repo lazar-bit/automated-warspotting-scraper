@@ -22628,3 +22628,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43711,2026-03-26,Tanks,Unknown tank,Destroyed,Russia,"Volnovakha raion, Donetsk oblast",,,,,Cope cage,,,
 43714,2026-03-26,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
 43716,2026-03-26,Transport,KamAZ 4x4,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,"Z, Cope cage, ◇, KUNG",,,
+43718,2026-03-26,Transport,Ural-4320,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Cope cage,,,
+43719,2026-03-26,Transport,Ural-4320,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Additional armour,,,
+43723,2026-03-27,Anti-aircraft systems,9A331M TLAR (for 9K332 'Tor-M2'),Destroyed,Russia,"Pysarivka, Starobilsk raion","49.479355,39.115191",49.479355,39.115191,,Loitering,,,
