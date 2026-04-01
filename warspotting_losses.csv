@@ -22659,3 +22659,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43831,2026-03-28,Transport,STS 'Sarmat-2',Destroyed,Russia,"Kamianske, Vasylivka raion",,,,VDV (Russian Airborne Forces),,,,
 43832,2026-03-28,Transport,STS 'Sarmat-2',Destroyed,Russia,"Kamianske, Vasylivka raion",,,,VDV (Russian Airborne Forces),,,,
 43815,2026-03-30,Transport,KamAZ 6x6 tractor unit,Destroyed,Russia,Kherson oblast,,,,,,,,
+43836,2026-03-31,Anti-aircraft systems,9A316 TEL (for 9K317 'Buk-M2'),Damaged,Russia,South Ukraine,,,,,Loitering,,,
+43866,2026-03-31,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
+43871,2026-03-31,Transport,Ural-4320 fuel tanker,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.109926,32.919247",46.109926,32.919247,,,,,
+43872,2026-03-31,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk raion, Kherson oblast",,,,,Cope cage,,,
