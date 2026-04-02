@@ -22663,3 +22663,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43866,2026-03-31,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
 43871,2026-03-31,Transport,Ural-4320 fuel tanker,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.109926,32.919247",46.109926,32.919247,,,,,
 43872,2026-03-31,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk raion, Kherson oblast",,,,,Cope cage,,,
+43882,2026-03-28,Transport,Ural-4320,Destroyed,Russia,Kherson oblast,,,,,Additional armour,,,
+43883,2026-03-30,Tanks,T-72B3,Destroyed,Russia,Belgorod oblast,,,,,Turretless,,,
