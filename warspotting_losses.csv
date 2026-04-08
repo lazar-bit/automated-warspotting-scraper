@@ -22684,3 +22684,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43910,2026-04-03,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Jammer",,,
 43927,2026-04-05,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Jammer, Hedgehog",,,
 43975,2026-03-29,Engineering,BREM-1(M) armoured recovery vehicle,Destroyed,Russia,"Hrushivka, Skadovsk raion","46.23063,33.1025",46.23063,33.1025,,"Cope cage, Jammer, Additional armour",,,
+43989,2026-03-11,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Novozlatopil (Rozivka hromada), Polohy raion","47.509504,36.819055",47.509504,36.819055,40th Separate Naval Infantry Brigade,,,,
+43980,2026-04-06,Transport,Unknown truck,Destroyed,Russia,"Ukrainsk, Pokrovsk raion","48.098653,37.371124",48.098653,37.371124,,Loitering,,,
+43986,2026-04-07,Transport,UAZ-452,Damaged,Russia,East Ukraine,,,,252nd Guards Motor Rifle Regiment,"Z, ◇",,,
