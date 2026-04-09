@@ -22687,3 +22687,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 43989,2026-03-11,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Novozlatopil (Rozivka hromada), Polohy raion","47.509504,36.819055",47.509504,36.819055,40th Separate Naval Infantry Brigade,,,,
 43980,2026-04-06,Transport,Unknown truck,Destroyed,Russia,"Ukrainsk, Pokrovsk raion","48.098653,37.371124",48.098653,37.371124,,Loitering,,,
 43986,2026-04-07,Transport,UAZ-452,Damaged,Russia,East Ukraine,,,,252nd Guards Motor Rifle Regiment,"Z, ◇",,,
+43990,2026-04-08,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
+44009,2026-04-08,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,"Cope cage, Jammer",,,
