@@ -22703,3 +22703,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44038,2026-04-09,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Siversk, Bakhmut raion",,,,,,,,
 44081,2026-04-11,Engineering,IMR-2(M) combat engineering vehicle,Destroyed,Russia,"Vovchansk, Chuhuiv raion","50.297361,36.951972",50.297361,36.951972,,"Turtle, Hedgehog",,,
 44082,2026-04-13,Transport,Ural-4320,Destroyed,Russia,"Komyshuvakha, Siverskodonetsk raion","48.708682,38.445332",48.708682,38.445332,,Loitering,,,
+44096,2026-04-14,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Kharkiv raion, Kharkiv oblast",,,,,Jammer,,,
+44098,2026-04-14,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Huliaipole, Polohy raion","47.675997,36.260515",47.675997,36.260515,,,,,
+44099,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.121413,32.936214",46.121413,32.936214,,"∆, ▲",,,
+44100,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.118278,32.933611",46.118278,32.933611,,"∆, ▲",,,
