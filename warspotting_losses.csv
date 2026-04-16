@@ -22707,3 +22707,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44098,2026-04-14,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Huliaipole, Polohy raion","47.675997,36.260515",47.675997,36.260515,,,,,
 44099,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.121413,32.936214",46.121413,32.936214,,"∆, ▲",,,
 44100,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.118278,32.933611",46.118278,32.933611,,"∆, ▲",,,
+44110,2026-04-15,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
