@@ -22708,3 +22708,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44099,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.121413,32.936214",46.121413,32.936214,,"∆, ▲",,,
 44100,2026-04-14,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.118278,32.933611",46.118278,32.933611,,"∆, ▲",,,
 44110,2026-04-15,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
+44154,2026-04-05,Rocket and missile artillery,122mm 9P138 (for 9K55 'Grad-1'),Destroyed,Russia,"Novoliubivka, Svatove raion","49.164880,37.937250",49.164880,37.937250,,,,,
+44147,2026-04-15,Anti-aircraft systems,9A33BM TELAR (for 9K33M3 'Osa-AKM'),Damaged,Russia,"Vodiane, Volnovakha raion","47.838440,37.283830",47.838440,37.283830,,Loitering,,,
+44148,2026-04-15,Anti-aircraft systems,9A310M1-2 TELAR (for 9K37M1-2 'Buk-M1-2'),Destroyed,Russia,"Bahativka, Polohy raion","47.383293,36.915064",47.383293,36.915064,,"Loitering, Additional armour",,,
+44149,2026-04-15,Transport,KamAZ 6x6,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,"Jammer, ∆, ▲, Additional armour",,,
+44146,2026-04-16,Transport,KamAZ 6x6,Destroyed,Russia,"Donetsk, Donetsk raion",,,,,"Z, ☐, Loitering, Additional armour",,,
