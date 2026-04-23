@@ -22746,3 +22746,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44270,2026-04-18,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kucherov, Belovsk raion","51.036551,35.404512",51.036551,35.404512,,"Cope cage, Hedgehog",,,
 44241,2026-04-20,Tanks,T-55A,Destroyed,Russia,"Huliaipole, Polohy raion","47.642840,36.303299",47.64284,36.303299,,"V, Turtle, Removed turret",,,
 44274,2026-04-21,Transport,Ural-4320,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,"Cope cage, Additional armour",,,
+44277,2026-04-17,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,Zaporizhzhia oblast,,,,,,,,
