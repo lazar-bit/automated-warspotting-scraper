@@ -22754,3 +22754,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44319,2026-04-23,Tanks,T-62M Obr. 2022,Destroyed,Russia,Kharkiv oblast,,,,,"Cope cage, Additional armour",,,
 44320,2026-04-23,Transport,GAZ-3308 'Sadko',Destroyed,Russia,Kharkiv oblast,,,,,"◇, ✕",,,
 44321,2026-04-23,Rocket and missile artillery,122mm 9P138 (for 9K55 'Grad-1'),Destroyed,Russia,"Giri, Belovsk raion","51.058917,35.562806",51.058917,35.562806,,,,,
+44359,2026-04-24,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,"Donetsk, Donetsk raion",,,,,"Cope cage, Additional armour",,,
