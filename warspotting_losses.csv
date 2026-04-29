@@ -22766,3 +22766,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44369,2026-04-26,Transport,ZiL-131,Damaged,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
 44372,2026-03-31,Infantry fighting vehicles,BMP-3,Destroyed,Russia,"Bakhmut raion, Donetsk oblast",,,,,"Turretless, PL-1",,,
 44373,2026-04-08,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+44418,2026-04-24,Tanks,T-55A Obr. 1974,Destroyed,Russia,"Yablukove, Polohy raion","47.71267,36.31604",47.71267,36.31604,,"V, Mine plow/roller, Cope cage",,,
+44407,2026-04-26,Drones,ZALA-Kub reconnaissance UAV,Captured,Russia,,,,,,Loitering,,,
+44413,2026-04-28,Other,'Kuryer' armed UGV,Destroyed,Russia,"Kharkiv raion, Kharkiv oblast",,,,,,,,
+44416,2026-04-28,Tanks,Unknown tank,Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,"Cope cage, Additional armour, Hedgehog",,,
