@@ -22774,3 +22774,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44437,2026-04-29,Helicopters,Mi-8MTV-5M transport helicopter,Damaged,Russia,"Babki, Rossosh raion","50.237431,39.748959",50.237431,39.748959,,Loitering,,,
 44438,2026-04-29,Helicopters,Mi-28 attack helicopter,Damaged,Russia,"Babki, Rossosh raion","50.237219,39.748170",50.237219,39.74817,,Loitering,,,
 44445,2026-04-30,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,"Pokrovsk, Pokrovsk raion","48.26982,37.16905",48.26982,37.16905,,Cope cage,,,
+44451,2026-04-02,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Koptieve, Pokrovsk raion","48.385630,37.364590",48.385630,37.364590,,,,,
+44449,2026-04-25,Self-propelled artillery,152mm 2S44 'Giatsint-K',Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,"Cope cage, Additional armour",,,
