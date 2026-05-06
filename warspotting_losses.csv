@@ -22791,3 +22791,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44469,2026-05-03,Transport,Ural-4320,Destroyed,Russia,Donetsk oblast,,,,,,,,
 44466,2026-05-04,Transport,UAZ-452,Destroyed,Russia,Belgorod oblast,,,,,,,,
 44470,2026-05-04,Transport,UAZ-3303 'Golovastik',Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,,,,
+44480,2026-05-03,Transport,Ural-4320,Destroyed,Russia,Kherson oblast,,,,,Cope cage,,,
+44477,2026-05-05,Self-propelled artillery,240mm 2S4 'Tyulpan',Destroyed,Russia,"Arkhangelskoe, Shebekino raion","50.358982,36.789102",50.358982,36.789102,,"Shattered, Cope cage",,,
+44483,2026-05-05,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
+44490,2026-05-05,Rocket and missile artillery,107mm Type 75 towed MRL,Damaged,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
