@@ -22795,3 +22795,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44477,2026-05-05,Self-propelled artillery,240mm 2S4 'Tyulpan',Destroyed,Russia,"Arkhangelskoe, Shebekino raion","50.358982,36.789102",50.358982,36.789102,,"Shattered, Cope cage",,,
 44483,2026-05-05,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
 44490,2026-05-05,Rocket and missile artillery,107mm Type 75 towed MRL,Damaged,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
+44531,2026-04-07,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Promin, Pokrovsk raion","48.263990,37.326860",48.263990,37.326860,,"Cope cage, Jammer",,,
+44510,2026-05-04,"Radars, jammers",Antenna vehicle based on KamAZ 6x6 (for 35N6 'Kasta' surveillance radar),Destroyed,Russia,"Yelyseivka, Berdiansk raion","46.982794,36.417490",46.982794,36.417490,,Loitering,,,
+44511,2026-05-04,"Command posts, communication",Command post based on KamAZ 6x6 (for 35N6 'Kasta' surveillance radar),Destroyed,Russia,"Yelyseivka, Berdiansk raion","46.982794,36.417490",46.982794,36.417490,,"Flipped, Loitering, KUNG",,,
+44512,2026-05-06,Self-propelled artillery,152mm 2S5 'Giatsint-S',Destroyed,Russia,"Volodymyrivka, Svatove raion","49.607679,37.977073",49.607679,37.977073,,,,,
+44529,2026-05-06,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,"Cope cage, Additional armour",,,
