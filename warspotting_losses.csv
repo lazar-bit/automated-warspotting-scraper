@@ -22829,3 +22829,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44612,2026-05-11,Transport,ZiL-131,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
 44613,2026-05-11,Transport,Ural-4320,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
 44640,2026-05-11,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Preobrazhenka, Pokrovsk raion","48.11577,36.98906",48.11577,36.98906,,"Cope cage, Additional armour",,,
+44611,2026-05-08,Tanks,T-90M 'Proryv',Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
+44641,2026-05-12,"Radars, jammers",1RL131-2 P-18-2 'Prima' early warning radar based on Ural-4320,Destroyed,Russia,"Zakharivka, Mariupol raion","47.16824,37.02295",47.16824,37.02295,,Loitering,,,
+44642,2026-05-12,Transport,Ural-4320,Destroyed,Russia,"Balka Zhuravka (Nevske), Svatove raion","49.131177,38.040278",49.131177,38.040278,,,,,
