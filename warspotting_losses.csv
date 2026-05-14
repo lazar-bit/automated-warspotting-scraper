@@ -22832,3 +22832,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44611,2026-05-08,Tanks,T-90M 'Proryv',Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
 44641,2026-05-12,"Radars, jammers",1RL131-2 P-18-2 'Prima' early warning radar based on Ural-4320,Destroyed,Russia,"Zakharivka, Mariupol raion","47.16824,37.02295",47.16824,37.02295,,Loitering,,,
 44642,2026-05-12,Transport,Ural-4320,Destroyed,Russia,"Balka Zhuravka (Nevske), Svatove raion","49.131177,38.040278",49.131177,38.040278,,,,,
+44674,2026-04-25,Transport,KamAZ 8x8 with armoured cabin,Destroyed,Russia,"Verkhnokamianka, Siverskodonetsk raion","48.830390,38.292863",48.830390,38.292863,,Additional armour,,,
+44652,2026-05-10,Tanks,T-72B Obr. 2022,Destroyed,Russia,"Krokhmalne, Kupiansk raion","49.553833,37.944556",49.553833,37.944556,,"Cope cage, Jammer",,,
+44667,2026-05-12,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Cope cage,,,
+44651,2026-05-13,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,South Ukraine,,,,,Loitering,,,
