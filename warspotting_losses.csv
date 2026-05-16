@@ -22837,3 +22837,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44667,2026-05-12,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,Cope cage,,,
 44651,2026-05-13,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,South Ukraine,,,,,Loitering,,,
 44679,2026-05-14,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,Donetsk oblast,,,,,"Turretless, Shattered, Cope cage, Expanded cabin, Hedgehog",,,
+44683,2026-05-07,Infantry fighting vehicles,BMP-2M 675-sb3KDZ,Destroyed,Russia,"Donetsk, Donetsk raion","48.050845,37.694174",48.050845,37.694174,,"Turretless, Cope cage",,,
+44681,2026-05-15,Airplanes,Be-200 'Altair' amphibious flying boat,Destroyed,Russia,"Yeysk airbase, Yeysk","46.684577,38.233368",46.684577,38.233368,,"Shattered, Loitering",,,
+44684,2026-05-15,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Synelnykove raion, Dnipropetrovsk oblast",,,,,"Cope cage, Additional armour",,,
