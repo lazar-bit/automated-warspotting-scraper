@@ -22625,3 +22625,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44770,2026-05-20,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,"Cope cage, Jammer",,,
 44771,2026-05-20,Transport,Ural-4320,Destroyed,Russia,"Mariupol, Mariupol raion",,,,,"Cope cage, Loitering",,,
 44773,2026-05-20,Transport,Ural-43206,Destroyed,Russia,Donetsk oblast,,,,,Loitering,,,
+44780,2026-04-28,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+44776,2026-05-14,Transport,Ural-4320 tanker,Destroyed,Russia,"Shyroka Balka, Mariupol raion","47.038588,37.425920",47.038588,37.425920,,"Shattered, Loitering",,,
+44779,2026-05-20,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+44778,2026-05-21,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,"Hrafske, Volnovakha raion","47.658299,37.407865",47.658299,37.407865,,"Shattered, Loitering, Jammer",,,
