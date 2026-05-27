@@ -22925,3 +22925,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 44883,2026-05-25,Transport,Ural-4320,Destroyed,Russia,"Hrozne, Horlivka raion","48.30436,38.31625",48.30436,38.31625,,Cope cage,,,
 44919,2026-05-25,Engineering,REM-KL recovery vehicle,Destroyed,Russia,"Khartsyzk, Donetsk raion","48.02933,38.11686",48.02933,38.11686,,Loitering,,,
 44920,2026-05-25,Transport,KamAZ 6x6,Destroyed,Russia,"Samsonove, Kalmiuske raion","47.102412,38.004404",47.102412,38.004404,Moskva (ex-Western) Military District,Loitering,,,
+44774,2026-05-19,Anti-aircraft systems,9A317M TELAR (for 9K317M 'Buk-M3'),Destroyed,Russia,Donetsk oblast,,,,,Loitering,,,
+44921,2026-05-19,Transport,KamAZ 6x6,Destroyed,Russia,"Samsonove, Kalmiuske raion",,,,Moskva (ex-Western) Military District,"Cope cage, Loitering, Jammer, ∆, ▲",,,
+44922,2026-05-26,Transport,Ural-4320-7810 'Motovoz-M',Destroyed,Russia,"Berdianske, Berdiansk raion","46.976390,36.935674",46.976390,36.935674,,Loitering,,,
+44923,2026-05-26,"Ambulances, medical vehicles",ZSA-Т armoured ambulance,Destroyed,Russia,"Berdianske, Berdiansk raion","46.976390,36.935674",46.976390,36.935674,,"Flipped, Loitering",,,
+44924,2026-05-26,Other,'Kuryer' logistics UGV,Destroyed,Russia,,,,,,,,,
