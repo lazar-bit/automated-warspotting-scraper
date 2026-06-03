@@ -22957,3 +22957,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45042,2026-06-01,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Jammer,,,
 45066,2026-06-01,Transport,KamAZ 6x6,Destroyed,Russia,Zaporizhzhia oblast,,,,,Loitering,,,
 45074,2026-06-01,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+45076,2026-05-21,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
+45087,2026-06-02,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
