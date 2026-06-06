@@ -22970,3 +22970,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45092,2026-06-03,Vessels,Project 20380 'Steregushchiy' class corvette,Damaged,Russia,"Kronstadt naval base, Saint Petersburg","59.981242,29.790271",59.981242,29.790271,Baltic Fleet,Loitering,,,
 45097,2026-06-03,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,Jammer,,,
 45123,2026-06-04,Towed artillery,130mm 52-P-482 M-46 field gun,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
+45125,2026-05-31,Other,'Kuryer' logistics UGV,Destroyed,Russia,,,,,,Flipped,,,
+45127,2026-06-03,Transport,KrAZ-260-based vehicle,Destroyed,Russia,"Vovchansk, Chuhuiv raion","50.292920,36.945975",50.292920,36.945975,,"Mine plow/roller, Cope cage, Jammer, Improvised",,,
