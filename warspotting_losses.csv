@@ -23007,3 +23007,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45135,2026-06-06,Infantry fighting vehicles,BTR-80,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Jammer, Hedgehog",,,
 45075,2026-05-30,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
 45153,2026-06-08,Transport,KamAZ 6x6,Destroyed,Russia,"Borivske, Siverskodonetsk raion","48.867867,38.590614",48.867867,38.590614,,"☐, Loitering",,,
+45168,2026-05-31,"Radars, jammers",1RL131-2 P-18-2 'Prima' early warning radar based on Ural-4320,Damaged,Russia,,,,,,Loitering,,,
+45156,2026-06-08,Transport,KamAZ 6x6,Destroyed,Russia,Zaporizhzhia oblast,,,,,Cope cage,,,
