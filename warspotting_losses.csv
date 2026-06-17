@@ -23071,3 +23071,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45270,2026-06-14,Transport,'Ulan-2' all-terrain vehicle,Damaged,Russia,"Serebrianka reserve, Siverskodonetsk raion",,,,164th Motor Rifle Brigade,"Z, Cope cage, ◇, Jammer",,,
 45313,2026-06-15,Airplanes,Tu-22M3 strategic bomber,Destroyed,Russia,"Sklyanka, Bokhan raion","53.136139,103.405306",53.136139,103.405306,,Shattered,,,
 45322,2026-06-15,Transport,Ural-4320 fuel tanker,Destroyed,Russia,"Dolynske, Melitopol raion","46.818248,35.183074",46.818248,35.183074,,Loitering,,,
+45336,2026-06-01,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Ivanivske, Bakhmut raion","48.572603,37.944848",48.572603,37.944848,,Cope cage,,,
+45338,2026-06-05,Other,'Omich(-2)' multifunctional UGV,Destroyed,Russia,"Balka Zhuravka (Nevske), Svatove raion","49.153650,38.030314",49.153650,38.030314,,,,,
+45330,2026-06-10,Tanks,T-62*,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,"Mine plow/roller, Cope cage",,,
+45325,2026-06-12,Transport,Ural-4320,Destroyed,Russia,Kursk oblast,,,,,"Cope cage, ◇, ✕",,,
+45327,2026-06-12,Transport,ZiL-131,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Improvised",,,
