@@ -23082,3 +23082,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45345,2026-06-17,Transport,KamAZ 6x6,Destroyed,Russia,Luhansk oblast,,,,,Cope cage,,,
 45346,2026-06-17,Transport,KamAZ 6x6,Destroyed,Russia,Luhansk oblast,,,,,Cope cage,,,
 45366,2026-06-17,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
+45373,2026-06-17,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
+45372,2026-06-18,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
+45380,2026-06-18,Transport,KrAZ-255B,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,Cope cage,,,
+45381,2026-06-18,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Sribne, Pokrovsk raion","48.09867,37.015179",48.09867,37.015179,,"Cope cage, Jammer",,,
