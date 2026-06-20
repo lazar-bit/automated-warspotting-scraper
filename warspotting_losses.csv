@@ -23086,3 +23086,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45372,2026-06-18,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
 45380,2026-06-18,Transport,KrAZ-255B,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,Cope cage,,,
 45381,2026-06-18,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Sribne, Pokrovsk raion","48.09867,37.015179",48.09867,37.015179,,"Cope cage, Jammer",,,
+45406,2026-06-18,Transport,UAZ Patriot jeep,Destroyed,Russia,"Skadovsk, Skadovsk raion","46.125822,32.881692",46.125822,32.881692,Southern Military District,,,,
+45423,2026-06-18,Rocket and missile artillery,122mm 9P138 (for 9K55 'Grad-1'),Destroyed,Russia,"Torske (Lyman hromada), Kramatorsk raion","49.022885,38.024776",49.022885,38.024776,,"Z, Cope cage, ◇, Additional armour",,,
+45424,2026-06-19,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,Kursk oblast,,,,,"Cope cage, ◇, Jammer, ✕, Additional armour",,,
+45426,2026-06-19,Rocket and missile artillery,122mm 9P138 (for 9K55 'Grad-1'),Destroyed,Russia,"Berestove (Petropavlivka hromada), Kupiansk raion","49.528037,37.922857",49.528037,37.922857,,"Cope cage, Jammer",,,
