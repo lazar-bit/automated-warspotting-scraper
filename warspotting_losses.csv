@@ -23122,3 +23122,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45487,2026-06-24,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,Kursk oblast,,,,,Additional armour,,,
 45528,2026-06-24,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Loitering, Jammer",,,
 45529,2026-06-24,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
+45532,2026-06-25,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,,,,,,"Cope cage, Loitering, Jammer",,,
