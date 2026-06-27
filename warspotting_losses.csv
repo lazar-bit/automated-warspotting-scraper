@@ -23123,3 +23123,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45528,2026-06-24,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Loitering, Jammer",,,
 45529,2026-06-24,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
 45532,2026-06-25,Infantry fighting vehicles,BTR-82AT,Destroyed,Russia,,,,,,"Cope cage, Loitering, Jammer",,,
+45536,2026-06-24,Transport,Ural-4320,Destroyed,Russia,Luhansk oblast,,,,,,,,
+45535,2026-06-25,Transport,KamAZ 6x6,Destroyed,Russia,South Ukraine,,,,,Loitering,,,
+45537,2026-06-25,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Donetsk oblast,,,,,,,,
+45533,2026-06-26,Transport,KamAZ 4x4,Destroyed,Russia,"Skadovsk raion, Kherson oblast",,,,,Additional armour,,,
+45534,2026-06-26,Transport,KamAZ 6x6,Destroyed,Russia,"Skadovsk raion, Kherson oblast",,,,,∆,,,
