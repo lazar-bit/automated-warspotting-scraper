@@ -23220,3 +23220,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45760,2026-07-04,Transport,Ural-4320,Destroyed,Russia,"Zapovitne, Vasylivka raion","47.390088,34.622214",47.390088,34.622214,,Cope cage,,,
 45761,2026-07-04,Transport,KamAZ 6x6,Destroyed,Russia,"Vasylivka raion, Zaporizhzhia oblast",,,,,"Cope cage, ∆, ▲",,,
 45759,2026-07-06,Anti-aircraft systems,51P6 TEL (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Kosenki, Mglin raion","53.14548,32.70747",53.14548,32.70747,,Loitering,,,
+45763,2026-07-06,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,"Cope cage, Additional armour",,,
+45765,2026-07-07,Self-propelled artillery,122mm 2S1 'Gvozdika',Destroyed,Russia,Kharkiv oblast,,,,,"Cope cage, Additional armour",,,
+45766,2026-07-07,Transport,Ural-4320-7810 'Motovoz-M',Destroyed,Russia,Donetsk oblast,,,,,Loitering,,,
+45775,2026-07-07,Engineering,PTS(-M) tracked amphibious transport,Destroyed,Russia,"Chuhuiv raion, Kharkiv oblast",,,,,Cope cage,,,
