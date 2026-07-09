@@ -23224,3 +23224,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 45765,2026-07-07,Self-propelled artillery,122mm 2S1 'Gvozdika',Destroyed,Russia,Kharkiv oblast,,,,,"Cope cage, Additional armour",,,
 45766,2026-07-07,Transport,Ural-4320-7810 'Motovoz-M',Destroyed,Russia,Donetsk oblast,,,,,Loitering,,,
 45775,2026-07-07,Engineering,PTS(-M) tracked amphibious transport,Destroyed,Russia,"Chuhuiv raion, Kharkiv oblast",,,,,Cope cage,,,
+45792,2026-07-07,"Radars, jammers",Antenna vehicle (for 1RL131 P-18 'Terek' early warning radar),Destroyed,Russia,"Chervone Pole, Berdiansk raion","47.076917,37.079250",47.076917,37.079250,,,,,
+45784,2026-07-08,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,South Ukraine,,,,,,,,
+45791,2026-07-08,Airplanes,Su-35S multirole aircraft,Destroyed,Russia,Luhansk oblast,,,,,,,,
