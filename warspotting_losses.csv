@@ -23373,3 +23373,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46097,2026-07-21,Transport,Ural-63706-0122 'Tornado-U',Destroyed,Russia,"Kostiantynivka, Melitopol raion","46.820786,35.483303",46.820786,35.483303,Eastern Military District,"Loitering, Jammer",,,
 46098,2026-07-21,Transport,Ural-4320,Destroyed,Russia,"Siverskodonetsk raion, Luhansk oblast",,,,,,,,
 46100,2026-07-21,Infantry mobility vehicles,Remdiesel Z-STS 'Akhmat',Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,"Cope cage, Jammer, Additional armour",,,
+46132,2026-07-19,Transport,ZiL-131,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+46103,2026-07-22,Transport,Ural-63706-0122 'Tornado-U',Destroyed,Russia,Zaporizhzhia oblast,,,,,"Loitering, Jammer",,,
+46104,2026-07-22,Transport,ZiL-131,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Shattered, Cope cage",,,
+46106,2026-07-22,Transport,KamAZ 8x8,Destroyed,Russia,"Dzhankoi airbase, Dzhankoi","45.708978,34.423719",45.708978,34.423719,,Loitering,,,
