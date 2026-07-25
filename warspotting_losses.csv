@@ -23387,3 +23387,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46150,2026-07-23,Transport,KamAZ 6x6,Destroyed,Russia,"Ilovaisk, Donetsk raion",,,,,Loitering,,,
 46151,2026-07-23,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
 46152,2026-07-23,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Pokrovsk raion, Donetsk oblast",,,,,,,,
+46158,2026-07-22,Tanks,T-72B3A,Destroyed,Russia,"Maiak, Pokrovsk raion",,,,,Cope cage,,,
+46163,2026-07-22,Transport,Ural-4320,Destroyed,Russia,Belgorod oblast,,,,,"Shattered, Cope cage",,,
+46154,2026-07-24,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Nova Poltavka, Kramatorsk raion","48.375610,37.481352",48.375610,37.481352,,"Cope cage, Jammer, Additional armour",,,
+46155,2026-07-24,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,,,,
