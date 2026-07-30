@@ -23409,3 +23409,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46214,2026-07-28,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Jammer,,,
 46215,2026-07-28,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
 46216,2026-07-28,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Jammer",,,
+46224,2026-07-28,Tanks,T-72B3 Obr. 2022,Destroyed,Russia,Belgorod oblast,,,,,"Turtle, Hedgehog",,,
+46223,2026-07-29,Tanks,Unknown T-72 Obr. 2022,Destroyed,Russia,Belgorod oblast,,,,,"Cope cage, Hedgehog",,,
