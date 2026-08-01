@@ -23414,3 +23414,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46229,2026-07-28,Infantry mobility vehicles,GAZ-233014 'Tigr',Destroyed,Russia,,,,,119th Guards Airborne Regiment,"Cope cage, Jammer, Additional armour",,,
 46225,2026-07-30,Anti-aircraft systems,9A316 TEL (for 9K317 'Buk-M2'),Destroyed,Russia,,,,,,Loitering,,,
 46226,2026-07-30,Towed artillery,152mm 2A36 'Giatsint-B' field gun,Destroyed,Russia,,,,,,Cope cage,,,
+45886,2026-07-13,Towed artillery,152mm 2A36 'Giatsint-B' field gun,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Loitering,,,
+46230,2026-07-30,Self-propelled artillery,152mm 2S44 'Giatsint-K',Destroyed,Russia,"Tavilzhanka, Kupiansk raion","49.842880,37.746585",49.842880,37.746585,,"Cope cage, Additional armour",,,
+46239,2026-07-30,Transport,KamAZ 6x6,Destroyed,Russia,"Shevchenka, Berdiansk raion","46.788859,36.578544",46.788859,36.578544,,"Loitering, ∆, ▲",,,
+46231,2026-07-31,Engineering,REM-KL recovery vehicle,Destroyed,Russia,"Holubivka (Alchevsk hromada), Alchevsk raion","48.375571,38.533925",48.375571,38.533925,,"Cope cage, Loitering",,,
+46232,2026-07-31,Transport,KamAZ 6x6,Destroyed,Russia,"Holubivka (Alchevsk hromada), Alchevsk raion","48.375583,38.533917",48.375583,38.533917,,"Cope cage, Loitering",,,
