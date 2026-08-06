@@ -23458,3 +23458,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46317,2026-08-03,Towed artillery,Unknown towed artillery,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,,,,,
 46305,2026-08-04,Transport,ZiL-131,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
 46306,2026-08-04,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,"Cope cage, Additional armour",,,
+46322,2026-07-20,"Radars, jammers",1L119 'Nebo-SVU' multi-functional radar,Damaged,Russia,"Yeysk airbase, Yeysk","46.685697,38.231491",46.685697,38.231491,,Loitering,,,
+46321,2026-08-03,Transport,KrAZ-260,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,Cope cage,,,
+46347,2026-08-03,Drones,Supercam S350 reconnaissance UAV,Captured,Russia,,,,,,,,,
+46320,2026-08-04,Transport,ZiL-131,Destroyed,Russia,"Khromivka, Bakhmut raion","48.726864,37.945267",48.726864,37.945267,,,,,
+46348,2026-08-04,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Lyman Pershyi, Kupiansk raion",,,,,"Cope cage, Additional armour",,,
