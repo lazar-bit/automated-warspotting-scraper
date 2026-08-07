@@ -23463,3 +23463,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46347,2026-08-03,Drones,Supercam S350 reconnaissance UAV,Captured,Russia,,,,,,,,,
 46320,2026-08-04,Transport,ZiL-131,Destroyed,Russia,"Khromivka, Bakhmut raion","48.726864,37.945267",48.726864,37.945267,,,,,
 46348,2026-08-04,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Lyman Pershyi, Kupiansk raion",,,,,"Cope cage, Additional armour",,,
+46361,2026-07-27,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,,,,
