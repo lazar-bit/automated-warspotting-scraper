@@ -23464,3 +23464,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46320,2026-08-04,Transport,ZiL-131,Destroyed,Russia,"Khromivka, Bakhmut raion","48.726864,37.945267",48.726864,37.945267,,,,,
 46348,2026-08-04,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Lyman Pershyi, Kupiansk raion",,,,,"Cope cage, Additional armour",,,
 46361,2026-07-27,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,,,,
+46370,2026-07-18,Other,'Kuryer' logistics UGV,Destroyed,Russia,,,,,,Flipped,,,
+46362,2026-08-06,Other,'Impuls-M' universal tracked platform,Destroyed,Russia,"Vovchansk, Chuhuiv raion","50.300417,36.911732",50.300417,36.911732,,Cope cage,,,
+46371,2026-08-07,Transport,UAZ Patriot jeep,Destroyed,Russia,"Kherson raion, Kherson oblast",,,,Rosgvardiya,,,,
+46372,2026-08-07,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,Kursk oblast,,,,,"Shattered, Cope cage",,,
