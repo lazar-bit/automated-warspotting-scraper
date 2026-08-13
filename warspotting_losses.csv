@@ -23488,4 +23488,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46437,2026-07-17,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Alchevsk raion, Luhansk oblast",,,,,Loitering,,,
 46434,2026-08-08,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Vnezapnoe, Korenevo raion","51.263457,34.877941",51.263457,34.877941,,"Cope cage, Jammer, Additional armour",,,
 46435,2026-08-08,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Vnezapnoe, Korenevo raion","51.263723,34.877958",51.263723,34.877958,,,,,
-46409,2026-08-08,Anti-aircraft systems,5P85SM2-01 TEL (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Gelendzhik, Gelendzhik okrug","44.568817,37.995980",44.568817,37.995980,,Loitering,,,
+46409,2026-08-08,Anti-aircraft systems,5P85SM2-01 TEL (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Gelendzhik, Gelendzhik okrug","44.568817,37.995980",44.568817,37.99598,,Loitering,,,
+46443,2026-08-10,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,,,,,,,,,
