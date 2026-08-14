@@ -23490,3 +23490,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46435,2026-08-08,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Vnezapnoe, Korenevo raion","51.263723,34.877958",51.263723,34.877958,,,,,
 46409,2026-08-08,Anti-aircraft systems,5P85SM2-01 TEL (for 40R6 S-400 'Triumf'),Destroyed,Russia,"Gelendzhik, Gelendzhik okrug","44.568817,37.995980",44.568817,37.99598,,Loitering,,,
 46443,2026-08-10,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,,,,,,,,,
+46211,2026-07-22,Transport,ZiL-131,Destroyed,Russia,"Rivnopil (Velyka Novosilka hromada), Volnovakha raion","47.793366,36.667319",47.793366,36.667319,,,,,
+46488,2026-08-11,Vessels,Project 22160 'Vasily Bykov' class patrol ship,Damaged,Russia,"Novorossiysk, Novorossiysk okrug","44.711725,37.832689",44.711725,37.832689,,Loitering,,,
+46495,2026-08-11,Vessels,Project 21631 'Buyan-M' class corvette,Damaged,Russia,"Novorossiysk, Novorossiysk okrug","44.714939,37.834765",44.714939,37.834765,Black Sea Fleet,Loitering,,,
+46494,2026-08-12,Self-propelled artillery,152mm 2S19 'Msta-S',Destroyed,Russia,"Tavilzhanka, Kupiansk raion","49.830822,37.817094",49.830822,37.817094,,"Cope cage, Additional armour",,,
+46499,2026-08-13,Transport,KamAZ 6x6,Destroyed,Russia,"Siverskodonetsk, Siverskodonetsk raion","48.945005,38.543592",48.945005,38.543592,,Cope cage,,,
