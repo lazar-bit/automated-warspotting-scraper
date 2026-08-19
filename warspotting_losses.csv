@@ -23516,3 +23516,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46512,2026-08-16,Tanks,T-72B3 Obr. 2025,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Cope cage,,,
 46533,2026-08-07,Towed artillery,122mm 2A18 D-30 howitzer,Destroyed,Russia,Zaporizhzhia oblast,,,,,Cope cage,,,
 46534,2026-08-07,Towed artillery,122mm 2A18 D-30 howitzer,Damaged,Russia,Zaporizhzhia oblast,,,,,,,,
+46441,2026-08-11,Self-propelled artillery,203mm 2S7(M) 'Pion'/'Malka',Destroyed,Russia,"Novoocheretuvate, Volnovakha raion","47.908114,36.825166",47.908114,36.825166,,,,,
+46563,2026-08-18,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,,,,,,Damaged,,,
+46567,2026-08-18,Transport,KamAZ 6x6,Destroyed,Russia,"Luhanske, Bakhmut raion",,,,,Loitering,,,
