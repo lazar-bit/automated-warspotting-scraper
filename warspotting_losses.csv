@@ -23519,3 +23519,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46441,2026-08-11,Self-propelled artillery,203mm 2S7(M) 'Pion'/'Malka',Destroyed,Russia,"Novoocheretuvate, Volnovakha raion","47.908114,36.825166",47.908114,36.825166,,,,,
 46563,2026-08-18,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,,,,,,Damaged,,,
 46567,2026-08-18,Transport,KamAZ 6x6,Destroyed,Russia,"Luhanske, Bakhmut raion",,,,,Loitering,,,
+46568,2026-08-18,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,"Zapovitne, Vasylivka raion","47.362925,34.665322",47.362925,34.665322,,,,,
+46569,2026-08-19,Engineering,'Zemledeliye' remote mine-laying system,Destroyed,Russia,"Goncharovka, Sudzha raion","51.197134,35.263791",51.197134,35.263791,,,,,
