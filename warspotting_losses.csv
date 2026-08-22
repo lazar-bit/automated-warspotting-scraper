@@ -23521,3 +23521,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46567,2026-08-18,Transport,KamAZ 6x6,Destroyed,Russia,"Luhanske, Bakhmut raion",,,,,Loitering,,,
 46568,2026-08-18,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,"Zapovitne, Vasylivka raion","47.362925,34.665322",47.362925,34.665322,,,,,
 46569,2026-08-19,Engineering,'Zemledeliye' remote mine-laying system,Destroyed,Russia,"Goncharovka, Sudzha raion","51.197134,35.263791",51.197134,35.263791,,,,,
+46604,2026-08-20,Transport,Unknown truck,Destroyed,Russia,South Ukraine,,,,,Loitering,,,
+46597,2026-08-21,Self-propelled artillery,152mm 2S5 'Giatsint-S',Destroyed,Russia,"Nizhnemakhovo, Sudzha raion","51.112449,35.454304",51.112449,35.454304,,Cope cage,,,
+46602,2026-08-21,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
+46605,2026-08-21,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Zaporizhzhia oblast,,,,,"Jammer, Additional armour",,,
