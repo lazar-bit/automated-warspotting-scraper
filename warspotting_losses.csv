@@ -23550,3 +23550,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46650,2026-08-22,Drones,Supercam S180 reconnaissance UAV,Captured,Russia,,,,,,,,,
 46649,2026-08-23,Drones,'Shtorm' reconnaissance UAV,Captured,Russia,,,,,,,,,
 46651,2026-08-23,Drones,'Albatros' M5 reconnaissance UAV,Captured,Russia,,,,,,,,,
+46652,2026-08-24,Infantry fighting vehicles,BTR-82A(M),Destroyed,Russia,"Velyka Novosilka, Volnovakha raion","47.837378,36.836035",47.837378,36.836035,,"Cope cage, Jammer, Hedgehog",,,
+46653,2026-08-24,Transport,ZiL-131,Destroyed,Russia,"Velyka Novosilka, Volnovakha raion","47.837289,36.836096",47.837289,36.836096,,Cope cage,,,
+46654,2026-08-24,Transport,ZiL-131,Destroyed,Russia,"Velyka Novosilka, Volnovakha raion","47.837363,36.836125",47.837363,36.836125,,Cope cage,,,
+46657,2026-08-24,Transport,Ural-4320,Destroyed,Russia,Kursk oblast,,,,,"Cope cage, Additional armour",,,
+46656,2026-08-25,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,"Cope cage, Jammer",,,
