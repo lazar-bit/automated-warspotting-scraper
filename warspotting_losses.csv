@@ -23555,3 +23555,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46654,2026-08-24,Transport,ZiL-131,Destroyed,Russia,"Velyka Novosilka, Volnovakha raion","47.837363,36.836125",47.837363,36.836125,,Cope cage,,,
 46657,2026-08-24,Transport,Ural-4320,Destroyed,Russia,Kursk oblast,,,,,"Cope cage, Additional armour",,,
 46656,2026-08-25,Tanks,T-80BVM Obr. 2022,Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,"Cope cage, Jammer",,,
+46686,2026-08-12,Tanks,Unknown tank,Destroyed,Russia,"Komar, Volnovakha raion","47.964581,36.797255",47.964581,36.797255,,Cope cage,,,
+46626,2026-08-23,Airplanes,MiG-29 fighter aircraft,Destroyed,Russia,"Vityazevo airport, Vityazevo","45.001017,37.337838",45.001017,37.337838,,Loitering,,,
+46679,2026-08-25,Drones,ZALA Z-16 (421-16Е) reconnaissance UAV,Captured,Russia,,,,,,,,,
+46687,2026-08-25,Transport,KamAZ 6x6,Destroyed,Russia,"Novonykanorivka, Svatove raion","49.649383,38.233286",49.649383,38.233286,,"Cope cage, Loitering",,,
+46684,2026-08-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,,,,
