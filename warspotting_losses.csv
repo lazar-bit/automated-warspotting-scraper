@@ -23597,3 +23597,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46716,2026-08-29,Anti-aircraft systems,72V6M-E combat vehicle (for 96K6ME 'Pantsir-S1M'),Destroyed,Russia,"Kerch, Kerch raion",,,,,Loitering,,,
 46762,2026-08-29,Tanks,T-62*,Destroyed,Russia,,,,,,"Cope cage, Jammer, Additional armour",,,
 46715,2026-08-30,Anti-aircraft systems,72V6 combat vehicle (for 96K6 'Pantsir-S1'),Destroyed,Russia,"Yeysk airbase, Yeysk","46.674547,38.166688",46.674547,38.166688,,"Turretless, V, Cope cage, ☐, Loitering",,,
+46782,2026-08-22,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,,,,,,,,,
+46781,2026-08-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
+46777,2026-08-31,Other,'Impuls-M' Obr. 2026 universal tracked platform,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
