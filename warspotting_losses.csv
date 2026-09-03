@@ -23600,3 +23600,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46782,2026-08-22,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,,,,,,,,,
 46781,2026-08-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
 46777,2026-08-31,Other,'Impuls-M' Obr. 2026 universal tracked platform,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
+46769,2026-08-23,Transport,KamAZ 8x8 fuel tanker,Destroyed,Russia,"Novoivanivka, Melitopol raion","46.778908,35.560109",46.778908,35.560109,,,,,
