@@ -23601,3 +23601,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 46781,2026-08-26,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,,,,,,,,,
 46777,2026-08-31,Other,'Impuls-M' Obr. 2026 universal tracked platform,Destroyed,Russia,"Kupiansk raion, Kharkiv oblast",,,,,,,,
 46769,2026-08-23,Transport,KamAZ 8x8 fuel tanker,Destroyed,Russia,"Novoivanivka, Melitopol raion","46.778908,35.560109",46.778908,35.560109,,,,,
+46798,2026-09-02,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,,,,
+46794,2026-09-03,Self-propelled artillery,152mm 2S43 'Malva',Destroyed,Russia,"Shirokii, Belgorod raion","50.484194,36.293750",50.484194,36.293750,,Jammer,,,
+46797,2026-09-03,Anti-aircraft systems,9A316 TEL (for 9K317 'Buk-M2'),Destroyed,Russia,"Siverskodonetsk raion, Luhansk oblast",,,,,Cope cage,,,
+46804,2026-09-03,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,South Ukraine,,,,,,,,
