@@ -23707,3 +23707,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47155,2026-09-15,"Radars, jammers",Antenna vehicle based on KamAZ 6x6 (for 35N6 'Kasta' surveillance radar),Destroyed,Russia,"Adrianopil, Alchevsk raion","48.372861,38.708444",48.372861,38.708444,,,,,
 47160,2026-09-20,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,,,,,,,,,
 47210,2026-09-21,Tanks,T-80BV,Destroyed,Russia,"Novoukrainka (Velyka Novosilka hromada), Volnovakha raion","48.028679,36.87188",48.028679,36.87188,,"Cope cage, Jammer",,,
+47225,2026-09-22,Transport,UAZ-39094 'Fermer',Destroyed,Russia,,,,,,Improvised,,,
+47237,2026-09-22,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,,,,,
+47238,2026-09-22,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Myrnohrad, Pokrovsk raion",,,,,,,,
