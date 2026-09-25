@@ -23710,3 +23710,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47225,2026-09-22,Transport,UAZ-39094 'Fermer',Destroyed,Russia,,,,,,Improvised,,,
 47237,2026-09-22,Other,'Kuryer' logistics UGV,Destroyed,Russia,"Pokrovsk, Pokrovsk raion",,,,,,,,
 47238,2026-09-22,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Myrnohrad, Pokrovsk raion",,,,,,,,
+47296,2026-09-19,Transport,KamAZ 6x6,Destroyed,Russia,,,,,Eastern Military District,"Cope cage, Jammer",,,
+47295,2026-09-20,Infantry fighting vehicles,MT-LBVM(K),Destroyed,Russia,"Vovchansk, Chuhuiv raion","50.30709,36.92175",50.30709,36.92175,,Cope cage,,,
