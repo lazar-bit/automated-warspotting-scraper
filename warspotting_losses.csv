@@ -23712,3 +23712,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47238,2026-09-22,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Myrnohrad, Pokrovsk raion",,,,,,,,
 47296,2026-09-19,Transport,KamAZ 6x6,Destroyed,Russia,,,,,Eastern Military District,"Cope cage, Jammer",,,
 47295,2026-09-20,Infantry fighting vehicles,MT-LBVM(K),Destroyed,Russia,"Vovchansk, Chuhuiv raion","50.30709,36.92175",50.30709,36.92175,,Cope cage,,,
+47312,2026-09-22,Tanks,T-80BV,Destroyed,Russia,Kursk oblast,,,,,"Turtle, Hedgehog",,,
+47315,2026-09-25,Infantry fighting vehicles,BMP-2M 675-sb3KDZ,Destroyed,Russia,"Terny, Kramatorsk raion","49.11313,37.99709",49.11313,37.99709,,Turtle,,,
