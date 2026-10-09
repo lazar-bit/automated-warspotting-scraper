@@ -23744,3 +23744,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47449,2026-10-03,Infantry fighting vehicles,BMP-3,Destroyed,Russia,,,,,,"Turretless, Shattered",,,
 47445,2026-10-05,Transport,Ural*,Destroyed,Russia,Donetsk oblast,,,,,Loitering,,,
 47446,2026-10-05,Transport,KamAZ 6x6 with MM-501 armoured module,Destroyed,Russia,,,,,,"Z, ∆, ▲",,,
+47455,2026-10-06,Infantry mobility vehicles,AMN-590951 'VPK-Ural',Destroyed,Russia,"Kulbaki, Glushkovo raion","51.247253,34.811713",51.247253,34.811713,,"Jammer, Additional armour",,,
