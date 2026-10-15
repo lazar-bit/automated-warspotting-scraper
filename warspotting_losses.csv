@@ -23757,3 +23757,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47461,2026-10-09,Transport,KrAZ-255B fuel tanker,Destroyed,Russia,"Shyrokyi, Shchastia raion","48.808095,39.622352",48.808095,39.622352,Moskva (ex-Western) Military District,Loitering,,,
 47477,2026-09-19,Transport,KamAZ 6x6,Destroyed,Russia,"Novopetrivka, Berdiansk raion","46.874194,36.929304",46.874194,36.929304,,Loitering,,,
 47502,2026-10-08,Transport,KamAZ 6x6,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+47513,2026-10-14,Self-propelled artillery,152mm 2S19(M1) 'Msta-S',Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,,,,
