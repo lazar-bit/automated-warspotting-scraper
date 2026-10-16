@@ -23758,3 +23758,5 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47477,2026-09-19,Transport,KamAZ 6x6,Destroyed,Russia,"Novopetrivka, Berdiansk raion","46.874194,36.929304",46.874194,36.929304,,Loitering,,,
 47502,2026-10-08,Transport,KamAZ 6x6,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
 47513,2026-10-14,Self-propelled artillery,152mm 2S19(M1) 'Msta-S',Destroyed,Russia,"Shebekino raion, Belgorod oblast",,,,,,,,
+47526,2026-10-14,Airplanes,Su-34 strike aircraft,Destroyed,Russia,"Borisoglebsk air base, Borisoglebsk","51.363196,42.185548",51.363196,42.185548,,,,,
+47529,2026-10-14,Airplanes,Su-34 strike aircraft,Destroyed,Russia,"Borisoglebsk air base, Borisoglebsk","51.362794,42.186639",51.362794,42.186639,,,,,
