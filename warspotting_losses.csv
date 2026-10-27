@@ -23829,3 +23829,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47716,2026-10-24,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,Kursk oblast,,,,,,,,
 47717,2026-10-24,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,Kursk oblast,,,,,,,,
 47769,2026-10-24,Engineering,REM-KL recovery vehicle,Destroyed,Russia,"Volnovakha raion, Donetsk oblast",,,,,Loitering,,,
+47786,2026-10-09,Infantry fighting vehicles,MT-LBVM(K),Destroyed,Russia,Donetsk oblast,,,,,"Turtle, Additional armour, Hedgehog",,,
+47784,2026-10-24,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,,,,,,"Cope cage, Jammer, Additional armour",,,
+47785,2026-10-24,Towed artillery,152mm 52-P-546 D-20 gun-howitzer,Destroyed,Russia,,,,,,,,,
