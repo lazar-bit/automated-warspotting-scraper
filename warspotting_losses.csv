@@ -23832,3 +23832,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47786,2026-10-09,Infantry fighting vehicles,MT-LBVM(K),Destroyed,Russia,Donetsk oblast,,,,,"Turtle, Additional armour, Hedgehog",,,
 47784,2026-10-24,Infantry mobility vehicles,ASN-233115 'Tigr-M SpN',Destroyed,Russia,,,,,,"Cope cage, Jammer, Additional armour",,,
 47785,2026-10-24,Towed artillery,152mm 52-P-546 D-20 gun-howitzer,Destroyed,Russia,,,,,,,,,
+47829,2026-10-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,,,,
+47847,2026-10-27,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,"Oleshky, Kherson raion",,,,,,,,
+47868,2026-10-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Toretsk, Bakhmut raion",,,,,"Cope cage, Jammer",,,
