@@ -23835,3 +23835,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47829,2026-10-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,,,,
 47847,2026-10-27,Other,'Kuryer' mine-laying UGV,Destroyed,Russia,"Oleshky, Kherson raion",,,,,,,,
 47868,2026-10-27,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Toretsk, Bakhmut raion",,,,,"Cope cage, Jammer",,,
+47884,2026-10-02,Transport,UAZ-452,Destroyed,Russia,,,,,,,,,
+47883,2026-10-13,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,"Cope cage, Jammer, Additional armour",,,
+47881,2026-10-28,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Korenevo raion, Kursk oblast",,,,,,,,
