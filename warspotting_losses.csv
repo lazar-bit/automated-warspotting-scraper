@@ -23838,3 +23838,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47884,2026-10-02,Transport,UAZ-452,Destroyed,Russia,,,,,,,,,
 47883,2026-10-13,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,,,,,,"Cope cage, Jammer, Additional armour",,,
 47881,2026-10-28,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Korenevo raion, Kursk oblast",,,,,,,,
+47897,2026-10-19,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Novoielyzavetivka, Pokrovsk raion","48.129688,37.033729",48.129688,37.033729,,"Shattered, Cope cage",,,
+47892,2026-10-29,Airplanes,Su-34 strike aircraft,Destroyed,Russia,"Marinovka airbase, Kalach raion","48.64208,43.79543",48.64208,43.79543,,,,,
+47893,2026-10-29,Airplanes,Su-34 strike aircraft,Destroyed,Russia,"Marinovka airbase, Kalach raion","48.64235,43.79657",48.64235,43.79657,,,,,
+47896,2026-10-29,Airplanes,Su-57 stealth multirole aircraft,Destroyed,Russia,"Akhtubinsk airbase, Akhtubinsk raion","48.311360,46.189107",48.311360,46.189107,,,,,
+47906,2026-10-30,Helicopters,Mi-8*,Destroyed,Russia,"Tarasivka, Svatove raion","49.658319,38.398720",49.658319,38.398720,,Loitering,,,
