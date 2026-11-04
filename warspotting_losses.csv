@@ -23859,3 +23859,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 47934,2026-10-31,Transport,GAZ-33081 'Eger-II',Destroyed,Russia,,,,,,Cope cage,,,
 47935,2026-10-31,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,,,,,,Jammer,,,
 47933,2026-11-01,Transport,KamAZ 6x6,Destroyed,Russia,,,,,,Cope cage,,,
+47958,2026-10-29,Tanks,T-72B3,Destroyed,Russia,"Kramatorsk raion, Donetsk oblast",,,,,Turtle,,,
+47957,2026-11-02,Transport,Ural-4320,Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+47981,2026-11-02,Tanks,Unknown T-80 Obr. 2022,Destroyed,Russia,"Novopavlivka, Synelnykove raion",,,,,"Turretless, Cope cage, Hedgehog",,,
+47959,2026-11-03,Anti-aircraft systems,2S6M combat vehicle (for 2K22M 'Tunguska-M'),Destroyed,Russia,Russia,,,,,Loitering,,,
