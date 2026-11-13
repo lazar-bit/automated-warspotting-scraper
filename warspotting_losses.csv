@@ -23901,3 +23901,4 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48097,2026-11-11,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,,,,,,Flipped,,,
 48123,2026-11-11,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Stepove (Rozdol hromada), Vasylivka raion","47.422484,35.606436",47.422484,35.606436,,,,,
 48124,2026-11-11,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Stepove (Rozdol hromada), Vasylivka raion","47.425233,35.606471",47.425233,35.606471,,"Cope cage, ∆, ▲, Additional armour",,,
+48141,2026-11-12,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Cope cage,,,
