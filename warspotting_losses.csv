@@ -23917,3 +23917,8 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48124,2026-11-11,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Stepove (Rozdol hromada), Vasylivka raion","47.425233,35.606471",47.425233,35.606471,299th Air Assault Regiment,"Cope cage, ∆, ▲, Additional armour",,,
 48144,2026-11-11,"Radars, jammers",1L119 'Nebo-SVU' multi-functional radar,Damaged,Russia,"Mishino, Kingisepp raion","59.728732,28.495323",59.728732,28.495323,,Loitering,,,
 48141,2026-11-12,Rocket and missile artillery,122mm 2B17 BM-21-1 (for 9K51 'Grad'),Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,"Cope cage, Jammer",,,
+48172,2026-11-10,Airplanes,Il-76 transport aircraft,Damaged,Russia,"123rd Aviation Repair Plant, Staraya Russa","57.968237,31.382454",57.968237,31.382454,,Loitering,,,
+48171,2026-11-13,Infantry fighting vehicles,BMP-2 675-sb3KDZ,Destroyed,Russia,"Dobropillia, Pokrovsk raion",,,,,Cope cage,,,
+48170,2026-11-15,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Siverskodonetsk raion, Luhansk oblast",,,,,,,,
+48168,2026-11-16,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Novopetrovka, Valuyki raion","50.138490,37.742845",50.138490,37.742845,,"Cope cage, ◇, ✕, Additional armour, Hedgehog",,,
+48169,2026-11-16,Towed artillery,122mm 2A18 D-30 howitzer,Damaged,Russia,"Novopetrovka, Valuyki raion","50.138490,37.742845",50.138490,37.742845,,Additional armour,,,
