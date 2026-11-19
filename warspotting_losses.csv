@@ -23922,3 +23922,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48170,2026-11-15,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,"Siverskodonetsk raion, Luhansk oblast",,,,,,,,
 48168,2026-11-16,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Novopetrovka, Valuyki raion","50.138490,37.742845",50.13849,37.742845,,"Cope cage, ◇, ✕, Additional armour, Hedgehog",,,
 48169,2026-11-16,Towed artillery,122mm 2A18 D-30 howitzer,Damaged,Russia,"Novopetrovka, Valuyki raion","50.138490,37.742845",50.13849,37.742845,,Additional armour,,,
+48191,2026-11-16,Tanks,T-72B3 Obr. 2022,Destroyed,Russia,,,,,,Cope cage,,,
+48200,2026-11-17,Infantry fighting vehicles,BTR-80 or -82,Destroyed,Russia,,,,,,"Cope cage, Loitering, Jammer, Additional armour, Hedgehog",,,
+48202,2026-11-17,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,,,,,,"Cope cage, Additional armour, Hedgehog",,,
