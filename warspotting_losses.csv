@@ -23925,3 +23925,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48191,2026-11-16,Tanks,T-72B3 Obr. 2022,Destroyed,Russia,,,,,,Cope cage,,,
 48200,2026-11-17,Infantry fighting vehicles,BTR-80 or -82,Destroyed,Russia,,,,,,"Cope cage, Loitering, Jammer, Additional armour, Hedgehog",,,
 48202,2026-11-17,Infantry fighting vehicles,Unknown IFV,Destroyed,Russia,,,,,,"Cope cage, Additional armour, Hedgehog",,,
+48239,2026-11-19,Rocket and missile artillery,220mm 9P140 BM-27 (for 9K57 'Uragan'),Destroyed,Russia,Donetsk oblast,,,,,,,,
+48241,2026-11-19,Engineering,PTS(-M) tracked amphibious transport,Destroyed,Russia,Kharkiv oblast,,,,,,,,
+48247,2026-11-19,Infantry fighting vehicles,BMP-2(K),Abandoned,Russia,"Polohy raion, Zaporizhzhia oblast",,,,,"Cope cage, Damaged, Jammer, Additional armour",,,
+48248,2026-11-19,Transport,KamAZ 6x6,Destroyed,Russia,Luhansk oblast,,,,,"Cope cage, Additional armour",,,
