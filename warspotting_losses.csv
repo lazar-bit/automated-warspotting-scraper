@@ -23937,3 +23937,6 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48257,2026-11-18,Transport,'Ulan-2' all-terrain vehicle,Destroyed,Russia,Kursk oblast,,,,,"Cope cage, Additional armour",,,
 48255,2026-11-21,Transport,'Federal-42591',Destroyed,Russia,South Ukraine,,,,Rosgvardiya,"Cope cage, Loitering, Jammer, Additional armour",,,
 48252,2026-11-22,Vessels,Project 20380 'Steregushchiy' class corvette,Destroyed,Russia,"Benghazi, Benghazi popularate","32.122914,20.050537",32.122914,20.050537,30th Surface Ship Division,"Loitering, Underwater",,,
+48256,2026-11-21,Anti-aircraft systems,72V6 combat vehicle (for 96K6 'Pantsir-S1'),Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
+48260,2026-11-21,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Jammer,,,
+48259,2026-11-23,Transport,Ural-4320,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Cope cage,,,
