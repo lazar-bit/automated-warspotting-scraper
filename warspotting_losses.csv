@@ -23940,3 +23940,7 @@ id,date,type,model,status,lost_by,nearest_location,geo,latitude,longitude,unit,t
 48256,2026-11-21,Anti-aircraft systems,72V6 combat vehicle (for 96K6 'Pantsir-S1'),Destroyed,Russia,Donetsk oblast,,,,,Cope cage,,,
 48260,2026-11-21,Transport,'Ulan' all-terrain vehicle,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Jammer,,,
 48259,2026-11-23,Transport,Ural-4320,Destroyed,Russia,"Svatove raion, Luhansk oblast",,,,,Cope cage,,,
+48113,2026-11-04,Transport,GAZ-66,Destroyed,Russia,Donetsk oblast,,,,,,,,
+48114,2026-11-04,Transport,GAZ-66,Destroyed,Russia,Donetsk oblast,,,,,Shattered,,,
+48287,2026-11-07,Transport,KamAZ*,Destroyed,Russia,Donetsk oblast,,,,,,,,
+48282,2026-11-21,Infantry fighting vehicles,MT-LB(V),Destroyed,Russia,"Kamianka, Kupiansk raion","49.98322,37.76877",49.98322,37.76877,,"Cope cage, Turtle, Additional armour, Hedgehog",,,
